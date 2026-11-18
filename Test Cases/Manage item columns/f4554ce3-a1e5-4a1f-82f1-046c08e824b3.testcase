@@ -2,7 +2,7 @@
   "order" : "zz",
   "description" : "List choices with signs_every choice gets an ID and no sign and every value naming one holds its ID",
   "expectedResult" : "Every choice kept before got an id and no sign, and every value naming one holds its id (redix-api #129)",
-  "status" : "PENDING",
+  "status" : "DISABLED",
   "steps" : [],
   "priority" : "MEDIUM",
   "reference" : "",

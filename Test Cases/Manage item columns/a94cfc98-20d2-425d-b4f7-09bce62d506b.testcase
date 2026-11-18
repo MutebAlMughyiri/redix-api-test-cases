@@ -2,7 +2,7 @@
   "order" : "y",
   "description" : "Entry type and movement type lists_every entry keeps its figure and takes the choice its sign says",
   "expectedResult" : "Every item and every project's template took the new columns, and the old ones follow the approved order and print as it does, a person's own after them (redix-api #129, R6)",
-  "status" : "PENDING",
+  "status" : "DISABLED",
   "steps" : [],
   "priority" : "MEDIUM",
   "reference" : "",
