@@ -2,7 +2,7 @@
   "order" : "q",
   "description" : "Swagger is served outside production only",
   "expectedResult" : "Swagger only outside Production",
-  "status" : "DISABLED",
+  "status" : "PENDING",
   "steps" : [],
   "priority" : "MEDIUM",
   "reference" : "",

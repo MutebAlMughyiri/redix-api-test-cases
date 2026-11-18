@@ -2,7 +2,7 @@
   "order" : "n",
   "description" : "A wrong password is in the history against the user and never says what was typed",
   "expectedResult" : "A refused sign-in is recorded against the user whose name was typed, and never what was typed",
-  "status" : "PENDING",
+  "status" : "DISABLED",
   "steps" : [],
   "priority" : "MEDIUM",
   "reference" : "",

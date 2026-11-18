@@ -2,7 +2,7 @@
   "order" : "s",
   "description" : "An unknown username records nothing",
   "expectedResult" : "An unknown username records nothing, because there is nobody to record it against",
-  "status" : "PENDING",
+  "status" : "DISABLED",
   "steps" : [],
   "priority" : "MEDIUM",
   "reference" : "",

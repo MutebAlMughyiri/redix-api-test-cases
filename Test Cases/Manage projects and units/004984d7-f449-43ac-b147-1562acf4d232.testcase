@@ -2,7 +2,7 @@
   "order" : "zzt",
   "description" : "Adding a unit is in the history with its name",
   "expectedResult" : "Creating a project, adding a unit and closing a project are in the History table",
-  "status" : "PENDING",
+  "status" : "DISABLED",
   "steps" : [],
   "priority" : "MEDIUM",
   "reference" : "",

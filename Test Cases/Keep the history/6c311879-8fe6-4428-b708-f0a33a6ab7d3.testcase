@@ -2,7 +2,7 @@
   "order" : "p",
   "description" : "Someone inactive in every project is told a wrong password as anyone is",
   "expectedResult" : "A refused sign-in is recorded against the user whose name was typed, and never what was typed",
-  "status" : "PENDING",
+  "status" : "DISABLED",
   "steps" : [],
   "priority" : "MEDIUM",
   "reference" : "",

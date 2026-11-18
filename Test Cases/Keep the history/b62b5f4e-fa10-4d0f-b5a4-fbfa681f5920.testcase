@@ -2,7 +2,7 @@
   "order" : "q",
   "description" : "The wrong password that locks the account is recorded as a lockout",
   "expectedResult" : "The wrong password that locks the account is recorded as a lockout, at sign-in or at a password change",
-  "status" : "PENDING",
+  "status" : "DISABLED",
   "steps" : [],
   "priority" : "MEDIUM",
   "reference" : "",

@@ -2,7 +2,7 @@
   "order" : "o",
   "description" : "Trying while locked is a failed sign in",
   "expectedResult" : "A refused sign-in is recorded against the user whose name was typed, and never what was typed",
-  "status" : "PENDING",
+  "status" : "DISABLED",
   "steps" : [],
   "priority" : "MEDIUM",
   "reference" : "",

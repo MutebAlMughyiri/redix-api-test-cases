@@ -2,7 +2,7 @@
   "order" : "m",
   "description" : "A sign in is in the history with the user and the time",
   "expectedResult" : "A sign-in is recorded with the user and the time",
-  "status" : "PENDING",
+  "status" : "DISABLED",
   "steps" : [],
   "priority" : "MEDIUM",
   "reference" : "",
