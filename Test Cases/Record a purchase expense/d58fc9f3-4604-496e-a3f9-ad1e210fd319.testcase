@@ -2,7 +2,7 @@
   "order" : "zzy",
   "description" : "An expense is in the history with who and its total",
   "expectedResult" : "FR-21: who recorded it and its total are in the History table",
-  "status" : "PENDING",
+  "status" : "DISABLED",
   "steps" : [],
   "priority" : "MEDIUM",
   "reference" : "FR-21",
