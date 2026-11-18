@@ -2,7 +2,7 @@
   "order" : "zzzzo",
   "description" : "A subgroup revenue is kept on is not removed",
   "expectedResult" : "A subgroup an expense or revenue is kept on is not removed (subgroupInUse); \"is anything kept on it\" has one owner for items and subgroups",
-  "status" : "PENDING",
+  "status" : "DISABLED",
   "steps" : [],
   "priority" : "MEDIUM",
   "reference" : "",

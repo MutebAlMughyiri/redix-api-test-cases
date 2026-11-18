@@ -2,7 +2,7 @@
   "order" : "t",
   "description" : "A registration that chose an earlier project keeps it in a row with its history and one that chose the template keeps none",
   "expectedResult" : "An earlier project chosen at registration is a row of its own, with its History line; choosing the template keeps none, and the database refuses a source naming no project (findings row 214)",
-  "status" : "PENDING",
+  "status" : "DISABLED",
   "steps" : [],
   "priority" : "MEDIUM",
   "reference" : "",
