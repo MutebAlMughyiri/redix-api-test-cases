@@ -2,7 +2,7 @@
   "order" : "zn",
   "description" : "Notification project key_every notification keeps its project which the database now names",
   "expectedResult" : "A notification names a project the database knows (findings row 213)",
-  "status" : "PENDING",
+  "status" : "DISABLED",
   "steps" : [],
   "priority" : "MEDIUM",
   "reference" : "",

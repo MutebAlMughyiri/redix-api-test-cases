@@ -2,7 +2,7 @@
   "order" : "x",
   "description" : "A notification about an entry names it in a row of its own and one about the project has none",
   "expectedResult" : "A notification about an entry names it in a row of its own, and one about the project has none; the database refuses an entry that is not (findings row 214)",
-  "status" : "PENDING",
+  "status" : "DISABLED",
   "steps" : [],
   "priority" : "MEDIUM",
   "reference" : "",

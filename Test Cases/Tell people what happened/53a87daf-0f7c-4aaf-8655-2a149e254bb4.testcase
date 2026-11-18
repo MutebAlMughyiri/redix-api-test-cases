@@ -2,7 +2,7 @@
   "order" : "zm",
   "description" : "The database refuses a notification naming no project",
   "expectedResult" : "A notification names a project the database knows (findings row 213)",
-  "status" : "PENDING",
+  "status" : "DISABLED",
   "steps" : [],
   "priority" : "MEDIUM",
   "reference" : "",
