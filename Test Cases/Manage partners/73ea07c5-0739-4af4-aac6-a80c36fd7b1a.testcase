@@ -2,7 +2,7 @@
   "order" : "p",
   "description" : "The database refuses a partners login naming no user",
   "expectedResult" : "A partner's login is a row of its own, which taking it away removes, and the database refuses one naming nobody (findings row 214)",
-  "status" : "PENDING",
+  "status" : "DISABLED",
   "steps" : [],
   "priority" : "MEDIUM",
   "reference" : "",

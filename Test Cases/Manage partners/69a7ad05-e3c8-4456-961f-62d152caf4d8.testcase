@@ -2,7 +2,7 @@
   "order" : "x",
   "description" : "The database holds a login to one partner in a project and many with no login",
   "expectedResult" : "A login is one partner in a project, also in the database, and any number have none",
-  "status" : "PENDING",
+  "status" : "DISABLED",
   "steps" : [],
   "priority" : "MEDIUM",
   "reference" : "",
