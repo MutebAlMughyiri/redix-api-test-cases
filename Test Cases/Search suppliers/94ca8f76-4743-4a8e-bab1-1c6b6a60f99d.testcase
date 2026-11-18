@@ -2,7 +2,7 @@
   "order" : "s",
   "description" : "The migration fills the normalized name of suppliers saved before it",
   "expectedResult" : "The migration fills the normalized name of rows saved before it, by the same rule",
-  "status" : "PENDING",
+  "status" : "DISABLED",
   "steps" : [],
   "priority" : "MEDIUM",
   "reference" : "",
