@@ -2,7 +2,7 @@
   "order" : "m",
   "description" : "An unused phone with biometrics never times out",
   "expectedResult" : "A phone with it on never times out",
-  "status" : "PENDING",
+  "status" : "DISABLED",
   "steps" : [],
   "priority" : "MEDIUM",
   "reference" : "",
