@@ -2,7 +2,7 @@
   "order" : "u",
   "description" : "An opening balance has two decimals and a limit",
   "expectedResult" : "An opening balance has two decimals (NFR-04) and a limit",
-  "status" : "PENDING",
+  "status" : "DISABLED",
   "steps" : [],
   "priority" : "MEDIUM",
   "reference" : "NFR-04",

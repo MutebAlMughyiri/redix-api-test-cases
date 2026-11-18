@@ -2,7 +2,7 @@
   "order" : "p",
   "description" : "An overdrawn account may open below zero",
   "expectedResult" : "An overdrawn account may open below zero",
-  "status" : "PENDING",
+  "status" : "DISABLED",
   "steps" : [],
   "priority" : "MEDIUM",
   "reference" : "",

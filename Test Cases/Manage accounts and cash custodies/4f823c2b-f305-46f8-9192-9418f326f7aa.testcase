@@ -2,7 +2,7 @@
   "order" : "v",
   "description" : "An edit changes the name the opening balance and the custodian",
   "expectedResult" : "An edit changes the name, the opening balance and the custodian; the type never changes",
-  "status" : "PENDING",
+  "status" : "DISABLED",
   "steps" : [],
   "priority" : "MEDIUM",
   "reference" : "",

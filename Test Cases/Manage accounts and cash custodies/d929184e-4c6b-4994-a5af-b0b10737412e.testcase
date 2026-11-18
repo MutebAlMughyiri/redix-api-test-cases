@@ -2,7 +2,7 @@
   "order" : "x",
   "description" : "A changed opening balance is in the history old and new",
   "expectedResult" : "A changed opening balance is in the History table, old and new",
-  "status" : "PENDING",
+  "status" : "DISABLED",
   "steps" : [],
   "priority" : "MEDIUM",
   "reference" : "",

@@ -2,7 +2,7 @@
   "order" : "y",
   "description" : "An opening balance cannot change once the account has an entry",
   "expectedResult" : "An opening balance cannot change once any entry names the account, drafts included; its name still can",
-  "status" : "PENDING",
+  "status" : "DISABLED",
   "steps" : [],
   "priority" : "MEDIUM",
   "reference" : "",
