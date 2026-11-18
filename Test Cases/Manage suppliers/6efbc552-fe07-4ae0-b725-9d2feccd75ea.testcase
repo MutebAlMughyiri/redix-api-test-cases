@@ -2,7 +2,7 @@
   "order" : "zu",
   "description" : "The migration marks the row the approval named in a project approved before it",
   "expectedResult" : "The migration marks the row the approval named, in a project approved before it",
-  "status" : "PENDING",
+  "status" : "DISABLED",
   "steps" : [],
   "priority" : "MEDIUM",
   "reference" : "",

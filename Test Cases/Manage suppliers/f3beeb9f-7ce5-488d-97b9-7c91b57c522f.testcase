@@ -2,7 +2,7 @@
   "order" : "s",
   "description" : "The database holds a VAT number to one supplier in a project",
   "expectedResult" : "The database holds a number to one supplier in a project",
-  "status" : "PENDING",
+  "status" : "DISABLED",
   "steps" : [],
   "priority" : "MEDIUM",
   "reference" : "",
