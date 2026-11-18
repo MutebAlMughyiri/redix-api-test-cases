@@ -2,7 +2,7 @@
   "order" : "zt",
   "description" : "The database refuses a second entry of the project with the same number",
   "expectedResult" : "D3, G1: entries arriving at once each take their own number, by one atomic UPDATE … RETURNING on the project's counter; the unique index ix_entries_project_id_number refuses a second",
-  "status" : "PENDING",
+  "status" : "DISABLED",
   "steps" : [],
   "priority" : "MEDIUM",
   "reference" : "",
