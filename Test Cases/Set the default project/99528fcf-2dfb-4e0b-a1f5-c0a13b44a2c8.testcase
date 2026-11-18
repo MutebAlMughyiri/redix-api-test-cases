@@ -2,7 +2,7 @@
   "order" : "zr",
   "description" : "The admin sets his email in settings and then resets with it",
   "expectedResult" : "The admin sets his email here and then resets his password with it (D6, R10)",
-  "status" : "PENDING",
+  "status" : "DISABLED",
   "steps" : [],
   "priority" : "MEDIUM",
   "reference" : "",

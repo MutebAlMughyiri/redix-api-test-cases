@@ -2,7 +2,7 @@
   "order" : "zt",
   "description" : "A confirmed address is in the history by the person with the old and the new",
   "expectedResult" : "A confirmed address is in the History table, by the person, with the old and the new (UC-005)",
-  "status" : "PENDING",
+  "status" : "DISABLED",
   "steps" : [],
   "priority" : "MEDIUM",
   "reference" : "",

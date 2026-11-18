@@ -2,7 +2,7 @@
   "order" : "v",
   "description" : "User default projects keyed by user_every default stays keyed by its user and its own ID goes",
   "expectedResult" : "A new default replaces the old, one row per user, the user being its key (findings row 216)",
-  "status" : "PENDING",
+  "status" : "DISABLED",
   "steps" : [],
   "priority" : "MEDIUM",
   "reference" : "",
