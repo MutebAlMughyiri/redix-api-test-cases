@@ -1,0 +1,17 @@
+{
+  "order" : "o",
+  "description" : "A default project he is inactive in is skipped not cleared and comes back when he is active again",
+  "expectedResult" : "A default he is inactive in is skipped, not cleared, and comes back when he is active again (AC-37.2, redix-api #126)",
+  "status" : "PENDING",
+  "steps" : [],
+  "priority" : "MEDIUM",
+  "reference" : "AC-37.2",
+  "groups" : [],
+  "createdBy" : "Muteb F Almughyiri",
+  "updatedBy" : "Muteb F Almughyiri",
+  "createdAt" : "Wednesday 18-11-2026 At 03:30:00 [Asia/Riyadh]",
+  "updatedAt" : "Wednesday 18-11-2026 At 03:30:00 [Asia/Riyadh]",
+  "module" : "UC-010",
+  "testData" : "",
+  "preConditions" : ""
+}

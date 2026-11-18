@@ -1,0 +1,17 @@
+{
+  "order" : "zn",
+  "description" : "A manager makes someone inactive in his project and active again and he keeps what he holds",
+  "expectedResult" : "A manager makes someone inactive in his project and active again, and he keeps what he holds there (redix-api #126, D1, R7)",
+  "status" : "PENDING",
+  "steps" : [],
+  "priority" : "MEDIUM",
+  "reference" : "",
+  "groups" : [],
+  "createdBy" : "Muteb F Almughyiri",
+  "updatedBy" : "Muteb F Almughyiri",
+  "createdAt" : "Wednesday 18-11-2026 At 03:30:00 [Asia/Riyadh]",
+  "updatedAt" : "Wednesday 18-11-2026 At 03:30:00 [Asia/Riyadh]",
+  "module" : "UC-007",
+  "testData" : "",
+  "preConditions" : ""
+}

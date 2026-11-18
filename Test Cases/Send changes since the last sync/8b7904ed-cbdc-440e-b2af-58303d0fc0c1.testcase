@@ -1,0 +1,17 @@
+{
+  "order" : "r",
+  "description" : "The field keeps only the accounts they may charge",
+  "expectedResult" : "The field keeps only the accounts they may charge",
+  "status" : "PENDING",
+  "steps" : [],
+  "priority" : "MEDIUM",
+  "reference" : "",
+  "groups" : [],
+  "createdBy" : "Muteb F Almughyiri",
+  "updatedBy" : "Muteb F Almughyiri",
+  "createdAt" : "Wednesday 18-11-2026 At 03:30:00 [Asia/Riyadh]",
+  "updatedAt" : "Wednesday 18-11-2026 At 03:30:00 [Asia/Riyadh]",
+  "module" : "UC-030",
+  "testData" : "",
+  "preConditions" : ""
+}

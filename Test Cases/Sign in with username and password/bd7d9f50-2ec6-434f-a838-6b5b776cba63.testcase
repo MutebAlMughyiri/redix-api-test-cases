@@ -1,0 +1,17 @@
+{
+  "order" : "u",
+  "description" : "An access token is refused once the moment its session named has passed",
+  "expectedResult" : "A session says when its access token expires, at sign-in and at each renewal, and the token is refused from then on (redix-api #126, R6)",
+  "status" : "PENDING",
+  "steps" : [],
+  "priority" : "MEDIUM",
+  "reference" : "",
+  "groups" : [],
+  "createdBy" : "Muteb F Almughyiri",
+  "updatedBy" : "Muteb F Almughyiri",
+  "createdAt" : "Wednesday 18-11-2026 At 03:30:00 [Asia/Riyadh]",
+  "updatedAt" : "Wednesday 18-11-2026 At 03:30:00 [Asia/Riyadh]",
+  "module" : "UC-002",
+  "testData" : "",
+  "preConditions" : ""
+}

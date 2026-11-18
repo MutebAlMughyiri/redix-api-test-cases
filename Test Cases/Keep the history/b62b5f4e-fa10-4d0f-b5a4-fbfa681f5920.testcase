@@ -1,0 +1,17 @@
+{
+  "order" : "q",
+  "description" : "The wrong password that locks the account is recorded as a lockout",
+  "expectedResult" : "The wrong password that locks the account is recorded as a lockout, at sign-in or at a password change",
+  "status" : "PENDING",
+  "steps" : [],
+  "priority" : "MEDIUM",
+  "reference" : "",
+  "groups" : [],
+  "createdBy" : "Muteb F Almughyiri",
+  "updatedBy" : "Muteb F Almughyiri",
+  "createdAt" : "Wednesday 18-11-2026 At 03:30:00 [Asia/Riyadh]",
+  "updatedAt" : "Wednesday 18-11-2026 At 03:30:00 [Asia/Riyadh]",
+  "module" : "UC-005",
+  "testData" : "",
+  "preConditions" : ""
+}

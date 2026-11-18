@@ -1,0 +1,17 @@
+{
+  "order" : "zw",
+  "description" : "With a second active manager the first can be made inactive and then the second cannot",
+  "expectedResult" : "A project's last active manager cannot be made inactive there, by anyone (BR-29, R8)",
+  "status" : "PENDING",
+  "steps" : [],
+  "priority" : "MEDIUM",
+  "reference" : "BR-29",
+  "groups" : [],
+  "createdBy" : "Muteb F Almughyiri",
+  "updatedBy" : "Muteb F Almughyiri",
+  "createdAt" : "Wednesday 18-11-2026 At 03:30:00 [Asia/Riyadh]",
+  "updatedAt" : "Wednesday 18-11-2026 At 03:30:00 [Asia/Riyadh]",
+  "module" : "UC-007",
+  "testData" : "",
+  "preConditions" : ""
+}

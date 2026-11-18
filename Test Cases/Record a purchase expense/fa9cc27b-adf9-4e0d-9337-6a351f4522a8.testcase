@@ -1,0 +1,17 @@
+{
+  "order" : "x",
+  "description" : "Column values on the entry_every value the product the price and the quantity move to the entry unchanged and the supplier is optional",
+  "expectedResult" : "Every value, the product, the price and the quantity moved to the entry unchanged, every figure as it was, and the supplier column is optional on every item (redix-api #129, R6)",
+  "status" : "PENDING",
+  "steps" : [],
+  "priority" : "MEDIUM",
+  "reference" : "",
+  "groups" : [],
+  "createdBy" : "Muteb F Almughyiri",
+  "updatedBy" : "Muteb F Almughyiri",
+  "createdAt" : "Wednesday 18-11-2026 At 03:30:00 [Asia/Riyadh]",
+  "updatedAt" : "Wednesday 18-11-2026 At 03:30:00 [Asia/Riyadh]",
+  "module" : "UC-022",
+  "testData" : "",
+  "preConditions" : ""
+}

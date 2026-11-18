@@ -1,0 +1,17 @@
+{
+  "order" : "zzt",
+  "description" : "A manager cannot take over the admin",
+  "expectedResult" : "A login is changed only by someone who manages every project it is in, and never the admin's (BR-33)",
+  "status" : "PENDING",
+  "steps" : [],
+  "priority" : "MEDIUM",
+  "reference" : "BR-33",
+  "groups" : [],
+  "createdBy" : "Muteb F Almughyiri",
+  "updatedBy" : "Muteb F Almughyiri",
+  "createdAt" : "Wednesday 18-11-2026 At 03:30:00 [Asia/Riyadh]",
+  "updatedAt" : "Wednesday 18-11-2026 At 03:30:00 [Asia/Riyadh]",
+  "module" : "UC-007",
+  "testData" : "",
+  "preConditions" : ""
+}

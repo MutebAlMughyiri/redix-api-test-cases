@@ -1,0 +1,17 @@
+{
+  "order" : "p",
+  "description" : "An open value contract adds up with no remaining and no alert",
+  "expectedResult" : "AC-07.2: an open-value contract only adds up",
+  "status" : "PENDING",
+  "steps" : [],
+  "priority" : "MEDIUM",
+  "reference" : "AC-07.2",
+  "groups" : [],
+  "createdBy" : "Muteb F Almughyiri",
+  "updatedBy" : "Muteb F Almughyiri",
+  "createdAt" : "Wednesday 18-11-2026 At 03:30:00 [Asia/Riyadh]",
+  "updatedAt" : "Wednesday 18-11-2026 At 03:30:00 [Asia/Riyadh]",
+  "module" : "UC-027",
+  "testData" : "",
+  "preConditions" : ""
+}

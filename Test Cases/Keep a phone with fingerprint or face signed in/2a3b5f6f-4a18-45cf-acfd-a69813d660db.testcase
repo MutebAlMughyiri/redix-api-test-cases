@@ -1,0 +1,17 @@
+{
+  "order" : "s",
+  "description" : "Changing the password keeps biometrics on this phone",
+  "expectedResult" : "Changing the password keeps it on this phone",
+  "status" : "PENDING",
+  "steps" : [],
+  "priority" : "MEDIUM",
+  "reference" : "",
+  "groups" : [],
+  "createdBy" : "Muteb F Almughyiri",
+  "updatedBy" : "Muteb F Almughyiri",
+  "createdAt" : "Wednesday 18-11-2026 At 03:30:00 [Asia/Riyadh]",
+  "updatedAt" : "Wednesday 18-11-2026 At 03:30:00 [Asia/Riyadh]",
+  "module" : "UC-011",
+  "testData" : "",
+  "preConditions" : ""
+}

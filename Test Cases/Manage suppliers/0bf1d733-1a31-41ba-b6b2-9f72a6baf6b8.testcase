@@ -1,0 +1,17 @@
+{
+  "order" : "zo",
+  "description" : "A disabled supplier stays in the register and can be enabled",
+  "expectedResult" : "Disabled, it stays in the register, never deleted (BR-15)",
+  "status" : "PENDING",
+  "steps" : [],
+  "priority" : "MEDIUM",
+  "reference" : "BR-15",
+  "groups" : [],
+  "createdBy" : "Muteb F Almughyiri",
+  "updatedBy" : "Muteb F Almughyiri",
+  "createdAt" : "Wednesday 18-11-2026 At 03:30:00 [Asia/Riyadh]",
+  "updatedAt" : "Wednesday 18-11-2026 At 03:30:00 [Asia/Riyadh]",
+  "module" : "UC-017",
+  "testData" : "",
+  "preConditions" : ""
+}

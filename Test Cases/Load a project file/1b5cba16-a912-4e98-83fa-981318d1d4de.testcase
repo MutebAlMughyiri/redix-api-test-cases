@@ -1,0 +1,17 @@
+{
+  "order" : "zp",
+  "description" : "A part its owner refuses is listed with its owners code and nothing is saved",
+  "expectedResult" : "D14: a part its owner refuses is listed with that owner's code, and nothing is saved",
+  "status" : "PENDING",
+  "steps" : [],
+  "priority" : "MEDIUM",
+  "reference" : "",
+  "groups" : [],
+  "createdBy" : "Muteb F Almughyiri",
+  "updatedBy" : "Muteb F Almughyiri",
+  "createdAt" : "Wednesday 18-11-2026 At 03:30:00 [Asia/Riyadh]",
+  "updatedAt" : "Wednesday 18-11-2026 At 03:30:00 [Asia/Riyadh]",
+  "module" : "UC-071",
+  "testData" : "",
+  "preConditions" : ""
+}

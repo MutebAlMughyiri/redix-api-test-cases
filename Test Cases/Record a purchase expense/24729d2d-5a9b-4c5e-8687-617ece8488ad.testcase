@@ -1,0 +1,17 @@
+{
+  "order" : "zs",
+  "description" : "Charge any account lets finance charge any active account and not a disabled one",
+  "expectedResult" : "Open question 4: Field charges only what they hold; ChargeAnyAccount lets Finance charge any active account",
+  "status" : "PENDING",
+  "steps" : [],
+  "priority" : "MEDIUM",
+  "reference" : "",
+  "groups" : [],
+  "createdBy" : "Muteb F Almughyiri",
+  "updatedBy" : "Muteb F Almughyiri",
+  "createdAt" : "Wednesday 18-11-2026 At 03:30:00 [Asia/Riyadh]",
+  "updatedAt" : "Wednesday 18-11-2026 At 03:30:00 [Asia/Riyadh]",
+  "module" : "UC-022",
+  "testData" : "",
+  "preConditions" : ""
+}

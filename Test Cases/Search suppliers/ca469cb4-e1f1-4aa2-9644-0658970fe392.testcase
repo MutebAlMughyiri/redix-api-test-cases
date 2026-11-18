@@ -1,0 +1,17 @@
+{
+  "order" : "x",
+  "description" : "A VAT number no supplier holds finds nothing",
+  "expectedResult" : "A number nobody holds finds nothing, so the app can offer a quick add (FR-43)",
+  "status" : "PENDING",
+  "steps" : [],
+  "priority" : "MEDIUM",
+  "reference" : "FR-43",
+  "groups" : [],
+  "createdBy" : "Muteb F Almughyiri",
+  "updatedBy" : "Muteb F Almughyiri",
+  "createdAt" : "Wednesday 18-11-2026 At 03:30:00 [Asia/Riyadh]",
+  "updatedAt" : "Wednesday 18-11-2026 At 03:30:00 [Asia/Riyadh]",
+  "module" : "UC-018",
+  "testData" : "",
+  "preConditions" : ""
+}

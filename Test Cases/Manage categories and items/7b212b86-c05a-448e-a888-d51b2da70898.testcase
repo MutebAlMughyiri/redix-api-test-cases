@@ -1,0 +1,17 @@
+{
+  "order" : "n",
+  "description" : "A capital item stays one while partners are its tables and takes no sub table",
+  "expectedResult" : "redix-api #109: رأس المال (ItemType.Capital) is a revenue type whose tables are its partners: an item with partners keeps its type (409 itemHasPartners), and it takes no sub-table (itemTakesNoPurchases)",
+  "status" : "PENDING",
+  "steps" : [],
+  "priority" : "MEDIUM",
+  "reference" : "",
+  "groups" : [],
+  "createdBy" : "Muteb F Almughyiri",
+  "updatedBy" : "Muteb F Almughyiri",
+  "createdAt" : "Wednesday 18-11-2026 At 03:30:00 [Asia/Riyadh]",
+  "updatedAt" : "Wednesday 18-11-2026 At 03:30:00 [Asia/Riyadh]",
+  "module" : "UC-012",
+  "testData" : "",
+  "preConditions" : ""
+}

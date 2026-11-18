@@ -1,0 +1,17 @@
+{
+  "order" : "zq",
+  "description" : "His project list shows a project he is inactive in saying so and holding nothing",
+  "expectedResult" : "His project list keeps a project he is inactive in, saying so and holding nothing (R2, D2)",
+  "status" : "PENDING",
+  "steps" : [],
+  "priority" : "MEDIUM",
+  "reference" : "",
+  "groups" : [],
+  "createdBy" : "Muteb F Almughyiri",
+  "updatedBy" : "Muteb F Almughyiri",
+  "createdAt" : "Wednesday 18-11-2026 At 03:30:00 [Asia/Riyadh]",
+  "updatedAt" : "Wednesday 18-11-2026 At 03:30:00 [Asia/Riyadh]",
+  "module" : "UC-007",
+  "testData" : "",
+  "preConditions" : ""
+}

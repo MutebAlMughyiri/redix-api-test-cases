@@ -1,0 +1,17 @@
+{
+  "order" : "zn",
+  "description" : "A contract carries its document from when it is added",
+  "expectedResult" : "A contract carries its documents, each staying once attached, and only files of its project",
+  "status" : "PENDING",
+  "steps" : [],
+  "priority" : "MEDIUM",
+  "reference" : "",
+  "groups" : [],
+  "createdBy" : "Muteb F Almughyiri",
+  "updatedBy" : "Muteb F Almughyiri",
+  "createdAt" : "Wednesday 18-11-2026 At 03:30:00 [Asia/Riyadh]",
+  "updatedAt" : "Wednesday 18-11-2026 At 03:30:00 [Asia/Riyadh]",
+  "module" : "UC-021",
+  "testData" : "",
+  "preConditions" : ""
+}

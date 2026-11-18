@@ -1,0 +1,17 @@
+{
+  "order" : "zz",
+  "description" : "A value that does not fit its column is refused naming it",
+  "expectedResult" : "FR-41: values are stored with the entry, and must fit their column",
+  "status" : "PENDING",
+  "steps" : [],
+  "priority" : "MEDIUM",
+  "reference" : "FR-41",
+  "groups" : [],
+  "createdBy" : "Muteb F Almughyiri",
+  "updatedBy" : "Muteb F Almughyiri",
+  "createdAt" : "Wednesday 18-11-2026 At 03:30:00 [Asia/Riyadh]",
+  "updatedAt" : "Wednesday 18-11-2026 At 03:30:00 [Asia/Riyadh]",
+  "module" : "UC-022",
+  "testData" : "",
+  "preConditions" : ""
+}

@@ -1,0 +1,17 @@
+{
+  "order" : "zzzo",
+  "description" : "The order of categories is the order the report reads",
+  "expectedResult" : "The order set here is the order of the report (AC-39.1)",
+  "status" : "PENDING",
+  "steps" : [],
+  "priority" : "MEDIUM",
+  "reference" : "AC-39.1",
+  "groups" : [],
+  "createdBy" : "Muteb F Almughyiri",
+  "updatedBy" : "Muteb F Almughyiri",
+  "createdAt" : "Wednesday 18-11-2026 At 03:30:00 [Asia/Riyadh]",
+  "updatedAt" : "Wednesday 18-11-2026 At 03:30:00 [Asia/Riyadh]",
+  "module" : "UC-012",
+  "testData" : "",
+  "preConditions" : ""
+}

@@ -1,0 +1,17 @@
+{
+  "order" : "zq",
+  "description" : "A partner is a table of the capital item last among its tables",
+  "expectedResult" : "redix-api #109: a partner is a table of the capital item, last among its tables, and the tables are put in order like any item's",
+  "status" : "PENDING",
+  "steps" : [],
+  "priority" : "MEDIUM",
+  "reference" : "",
+  "groups" : [],
+  "createdBy" : "Muteb F Almughyiri",
+  "updatedBy" : "Muteb F Almughyiri",
+  "createdAt" : "Wednesday 18-11-2026 At 03:30:00 [Asia/Riyadh]",
+  "updatedAt" : "Wednesday 18-11-2026 At 03:30:00 [Asia/Riyadh]",
+  "module" : "UC-016",
+  "testData" : "",
+  "preConditions" : ""
+}

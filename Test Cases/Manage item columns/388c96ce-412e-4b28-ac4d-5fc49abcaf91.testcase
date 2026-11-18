@@ -1,0 +1,17 @@
+{
+  "order" : "o",
+  "description" : "The core columns of a purchase are the five left of br20 and naw al qayd which decides its sign",
+  "expectedResult" : "The core columns of a purchase are the five left of BR-20: date, supplier, total, account and file, the bill number left with D2 (findings row 150); «نوع القيد», which decides the total's sign; and «الوصف» (redix-api #129)",
+  "status" : "PENDING",
+  "steps" : [],
+  "priority" : "MEDIUM",
+  "reference" : "BR-20",
+  "groups" : [],
+  "createdBy" : "Muteb F Almughyiri",
+  "updatedBy" : "Muteb F Almughyiri",
+  "createdAt" : "Wednesday 18-11-2026 At 03:30:00 [Asia/Riyadh]",
+  "updatedAt" : "Wednesday 18-11-2026 At 03:30:00 [Asia/Riyadh]",
+  "module" : "UC-013",
+  "testData" : "",
+  "preConditions" : ""
+}

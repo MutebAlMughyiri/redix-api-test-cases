@@ -1,0 +1,17 @@
+{
+  "order" : "w",
+  "description" : "An edit can leave a bank account with nobody",
+  "expectedResult" : "An edit changes the name, the opening balance and the custodian; the type never changes",
+  "status" : "PENDING",
+  "steps" : [],
+  "priority" : "MEDIUM",
+  "reference" : "",
+  "groups" : [],
+  "createdBy" : "Muteb F Almughyiri",
+  "updatedBy" : "Muteb F Almughyiri",
+  "createdAt" : "Wednesday 18-11-2026 At 03:30:00 [Asia/Riyadh]",
+  "updatedAt" : "Wednesday 18-11-2026 At 03:30:00 [Asia/Riyadh]",
+  "module" : "UC-015",
+  "testData" : "",
+  "preConditions" : ""
+}

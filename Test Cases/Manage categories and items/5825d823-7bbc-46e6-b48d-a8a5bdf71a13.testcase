@@ -1,0 +1,17 @@
+{
+  "order" : "zv",
+  "description" : "No disabled item or category and no item without a table is offered",
+  "expectedResult" : "R7: no disabled item or category, and no item without a table is offered; revenue items are offered only to whoever moves money (redix-api #101)",
+  "status" : "PENDING",
+  "steps" : [],
+  "priority" : "MEDIUM",
+  "reference" : "",
+  "groups" : [],
+  "createdBy" : "Muteb F Almughyiri",
+  "updatedBy" : "Muteb F Almughyiri",
+  "createdAt" : "Wednesday 18-11-2026 At 03:30:00 [Asia/Riyadh]",
+  "updatedAt" : "Wednesday 18-11-2026 At 03:30:00 [Asia/Riyadh]",
+  "module" : "UC-012",
+  "testData" : "",
+  "preConditions" : ""
+}

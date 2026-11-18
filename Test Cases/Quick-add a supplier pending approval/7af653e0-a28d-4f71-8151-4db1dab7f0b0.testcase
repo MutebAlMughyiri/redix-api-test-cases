@@ -1,0 +1,17 @@
+{
+  "order" : "n",
+  "description" : "Finance adds a supplier with all its details",
+  "expectedResult" : "What Finance adds is approved at once",
+  "status" : "PENDING",
+  "steps" : [],
+  "priority" : "MEDIUM",
+  "reference" : "",
+  "groups" : [],
+  "createdBy" : "Muteb F Almughyiri",
+  "updatedBy" : "Muteb F Almughyiri",
+  "createdAt" : "Wednesday 18-11-2026 At 03:30:00 [Asia/Riyadh]",
+  "updatedAt" : "Wednesday 18-11-2026 At 03:30:00 [Asia/Riyadh]",
+  "module" : "UC-019",
+  "testData" : "",
+  "preConditions" : ""
+}

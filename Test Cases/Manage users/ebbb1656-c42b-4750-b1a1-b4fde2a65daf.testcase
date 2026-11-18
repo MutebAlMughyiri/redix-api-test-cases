@@ -1,0 +1,17 @@
+{
+  "order" : "u",
+  "description" : "An edit that keeps the email leaves its reset code working",
+  "expectedResult" : "Another email ends the person's codes, a reset code to the old address and a code to an address not yet confirmed; an edit keeping the email ends none (redix-api #127)",
+  "status" : "PENDING",
+  "steps" : [],
+  "priority" : "MEDIUM",
+  "reference" : "",
+  "groups" : [],
+  "createdBy" : "Muteb F Almughyiri",
+  "updatedBy" : "Muteb F Almughyiri",
+  "createdAt" : "Wednesday 18-11-2026 At 03:30:00 [Asia/Riyadh]",
+  "updatedAt" : "Wednesday 18-11-2026 At 03:30:00 [Asia/Riyadh]",
+  "module" : "UC-007",
+  "testData" : "",
+  "preConditions" : ""
+}

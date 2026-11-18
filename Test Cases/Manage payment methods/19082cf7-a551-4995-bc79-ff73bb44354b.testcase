@@ -1,0 +1,17 @@
+{
+  "order" : "v",
+  "description" : "A method an expense was paid with is not deleted",
+  "expectedResult" : "A method no expense was paid with is deleted; one an expense was paid with is refused and stays, to be disabled instead",
+  "status" : "PENDING",
+  "steps" : [],
+  "priority" : "MEDIUM",
+  "reference" : "",
+  "groups" : [],
+  "createdBy" : "Muteb F Almughyiri",
+  "updatedBy" : "Muteb F Almughyiri",
+  "createdAt" : "Wednesday 18-11-2026 At 03:30:00 [Asia/Riyadh]",
+  "updatedAt" : "Wednesday 18-11-2026 At 03:30:00 [Asia/Riyadh]",
+  "module" : "UC-014",
+  "testData" : "",
+  "preConditions" : ""
+}

@@ -1,0 +1,17 @@
+{
+  "order" : "zzzzo",
+  "description" : "A subgroup revenue is kept on is not removed",
+  "expectedResult" : "A subgroup an expense or revenue is kept on is not removed (subgroupInUse); \"is anything kept on it\" has one owner for items and subgroups",
+  "status" : "PENDING",
+  "steps" : [],
+  "priority" : "MEDIUM",
+  "reference" : "",
+  "groups" : [],
+  "createdBy" : "Muteb F Almughyiri",
+  "updatedBy" : "Muteb F Almughyiri",
+  "createdAt" : "Wednesday 18-11-2026 At 03:30:00 [Asia/Riyadh]",
+  "updatedAt" : "Wednesday 18-11-2026 At 03:30:00 [Asia/Riyadh]",
+  "module" : "UC-012",
+  "testData" : "",
+  "preConditions" : ""
+}

@@ -1,0 +1,17 @@
+{
+  "order" : "r",
+  "description" : "Nobody is told of their own decision",
+  "expectedResult" : "Nobody is told of their own decision",
+  "status" : "PENDING",
+  "steps" : [],
+  "priority" : "MEDIUM",
+  "reference" : "",
+  "groups" : [],
+  "createdBy" : "Muteb F Almughyiri",
+  "updatedBy" : "Muteb F Almughyiri",
+  "createdAt" : "Wednesday 18-11-2026 At 03:30:00 [Asia/Riyadh]",
+  "updatedAt" : "Wednesday 18-11-2026 At 03:30:00 [Asia/Riyadh]",
+  "module" : "UC-036",
+  "testData" : "",
+  "preConditions" : ""
+}

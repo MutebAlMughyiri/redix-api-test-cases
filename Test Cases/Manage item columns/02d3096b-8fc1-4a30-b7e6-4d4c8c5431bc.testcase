@@ -1,0 +1,17 @@
+{
+  "order" : "zw",
+  "description" : "An item takes one list whose choices give a sign so the amounts direction has one answer",
+  "expectedResult" : "An item holds at most one list whose choices give a sign, so the amount's direction has one answer (redix-api #129)",
+  "status" : "PENDING",
+  "steps" : [],
+  "priority" : "MEDIUM",
+  "reference" : "",
+  "groups" : [],
+  "createdBy" : "Muteb F Almughyiri",
+  "updatedBy" : "Muteb F Almughyiri",
+  "createdAt" : "Wednesday 18-11-2026 At 03:30:00 [Asia/Riyadh]",
+  "updatedAt" : "Wednesday 18-11-2026 At 03:30:00 [Asia/Riyadh]",
+  "module" : "UC-013",
+  "testData" : "",
+  "preConditions" : ""
+}

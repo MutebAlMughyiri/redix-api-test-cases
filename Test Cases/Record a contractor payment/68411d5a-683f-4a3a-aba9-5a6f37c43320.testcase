@@ -1,0 +1,17 @@
+{
+  "order" : "q",
+  "description" : "Only an approved payment is paid and a pending one waits beside it",
+  "expectedResult" : "BR-10: only an approved payment is paid; a pending one waits beside it",
+  "status" : "PENDING",
+  "steps" : [],
+  "priority" : "MEDIUM",
+  "reference" : "BR-10",
+  "groups" : [],
+  "createdBy" : "Muteb F Almughyiri",
+  "updatedBy" : "Muteb F Almughyiri",
+  "createdAt" : "Wednesday 18-11-2026 At 03:30:00 [Asia/Riyadh]",
+  "updatedAt" : "Wednesday 18-11-2026 At 03:30:00 [Asia/Riyadh]",
+  "module" : "UC-027",
+  "testData" : "",
+  "preConditions" : ""
+}

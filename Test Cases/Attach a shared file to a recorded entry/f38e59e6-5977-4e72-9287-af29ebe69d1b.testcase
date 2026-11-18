@@ -1,0 +1,17 @@
+{
+  "order" : "p",
+  "description" : "10f_whoever manages any entry lists and attaches to others but never to their drafts",
+  "expectedResult" : "AC-46.10f, R7, R8: a person lists and attaches to their own; with ManageAnyEntry others' too, never their drafts; the list and the attach agree",
+  "status" : "PENDING",
+  "steps" : [],
+  "priority" : "MEDIUM",
+  "reference" : "AC-46",
+  "groups" : [],
+  "createdBy" : "Muteb F Almughyiri",
+  "updatedBy" : "Muteb F Almughyiri",
+  "createdAt" : "Wednesday 18-11-2026 At 03:30:00 [Asia/Riyadh]",
+  "updatedAt" : "Wednesday 18-11-2026 At 03:30:00 [Asia/Riyadh]",
+  "module" : "UC-039",
+  "testData" : "",
+  "preConditions" : ""
+}

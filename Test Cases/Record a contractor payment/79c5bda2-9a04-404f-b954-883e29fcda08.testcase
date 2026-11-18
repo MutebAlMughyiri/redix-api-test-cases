@@ -1,0 +1,17 @@
+{
+  "order" : "y",
+  "description" : "The receipt is linked as a receipt and a file already on an entry is refused",
+  "expectedResult" : "A receipt is linked as a receipt; a file already on an entry is refused",
+  "status" : "PENDING",
+  "steps" : [],
+  "priority" : "MEDIUM",
+  "reference" : "",
+  "groups" : [],
+  "createdBy" : "Muteb F Almughyiri",
+  "updatedBy" : "Muteb F Almughyiri",
+  "createdAt" : "Wednesday 18-11-2026 At 03:30:00 [Asia/Riyadh]",
+  "updatedAt" : "Wednesday 18-11-2026 At 03:30:00 [Asia/Riyadh]",
+  "module" : "UC-027",
+  "testData" : "",
+  "preConditions" : ""
+}

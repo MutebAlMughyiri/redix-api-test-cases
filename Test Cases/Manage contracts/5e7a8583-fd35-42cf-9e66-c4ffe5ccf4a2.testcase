@@ -1,0 +1,17 @@
+{
+  "order" : "m",
+  "description" : "Finance adds a contract with its contractor item and value",
+  "expectedResult" : "Finance adds a contract with its contractor, item and value (FR-07)",
+  "status" : "PENDING",
+  "steps" : [],
+  "priority" : "MEDIUM",
+  "reference" : "FR-07",
+  "groups" : [],
+  "createdBy" : "Muteb F Almughyiri",
+  "updatedBy" : "Muteb F Almughyiri",
+  "createdAt" : "Wednesday 18-11-2026 At 03:30:00 [Asia/Riyadh]",
+  "updatedAt" : "Wednesday 18-11-2026 At 03:30:00 [Asia/Riyadh]",
+  "module" : "UC-020",
+  "testData" : "",
+  "preConditions" : ""
+}

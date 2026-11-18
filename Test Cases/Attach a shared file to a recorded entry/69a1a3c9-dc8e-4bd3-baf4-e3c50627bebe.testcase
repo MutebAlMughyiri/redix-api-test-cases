@@ -1,0 +1,17 @@
+{
+  "order" : "n",
+  "description" : "10c_a deduction a credit note and a removed entry are not listed and cannot take one",
+  "expectedResult" : "A deduction, a credit note and a removed entry are not listed and cannot take one",
+  "status" : "PENDING",
+  "steps" : [],
+  "priority" : "MEDIUM",
+  "reference" : "",
+  "groups" : [],
+  "createdBy" : "Muteb F Almughyiri",
+  "updatedBy" : "Muteb F Almughyiri",
+  "createdAt" : "Wednesday 18-11-2026 At 03:30:00 [Asia/Riyadh]",
+  "updatedAt" : "Wednesday 18-11-2026 At 03:30:00 [Asia/Riyadh]",
+  "module" : "UC-039",
+  "testData" : "",
+  "preConditions" : ""
+}

@@ -1,0 +1,17 @@
+{
+  "order" : "t",
+  "description" : "A payment outside the contract enters the item total and leaves the remaining alone",
+  "expectedResult" : "AC-13.1: outside the contract it enters the item total and leaves the remaining",
+  "status" : "PENDING",
+  "steps" : [],
+  "priority" : "MEDIUM",
+  "reference" : "AC-13.1",
+  "groups" : [],
+  "createdBy" : "Muteb F Almughyiri",
+  "updatedBy" : "Muteb F Almughyiri",
+  "createdAt" : "Wednesday 18-11-2026 At 03:30:00 [Asia/Riyadh]",
+  "updatedAt" : "Wednesday 18-11-2026 At 03:30:00 [Asia/Riyadh]",
+  "module" : "UC-027",
+  "testData" : "",
+  "preConditions" : ""
+}

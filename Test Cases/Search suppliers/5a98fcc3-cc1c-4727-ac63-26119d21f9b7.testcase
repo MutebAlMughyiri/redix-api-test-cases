@@ -1,0 +1,17 @@
+{
+  "order" : "p",
+  "description" : "An answer shows the name as it was typed",
+  "expectedResult" : "A search treats أ إ آ with ا, ة with ه, ى with ي, ؤ with و, ئ with ي alike and ignores tashkeel, both ways; an answer shows the name as it was typed",
+  "status" : "PENDING",
+  "steps" : [],
+  "priority" : "MEDIUM",
+  "reference" : "",
+  "groups" : [],
+  "createdBy" : "Muteb F Almughyiri",
+  "updatedBy" : "Muteb F Almughyiri",
+  "createdAt" : "Wednesday 18-11-2026 At 03:30:00 [Asia/Riyadh]",
+  "updatedAt" : "Wednesday 18-11-2026 At 03:30:00 [Asia/Riyadh]",
+  "module" : "UC-018",
+  "testData" : "",
+  "preConditions" : ""
+}

@@ -1,0 +1,17 @@
+{
+  "order" : "zzm",
+  "description" : "A copied project starts with no partners",
+  "expectedResult" : "A project copied from an earlier one starts with no partners (AC-05.2)",
+  "status" : "PENDING",
+  "steps" : [],
+  "priority" : "MEDIUM",
+  "reference" : "AC-05.2",
+  "groups" : [],
+  "createdBy" : "Muteb F Almughyiri",
+  "updatedBy" : "Muteb F Almughyiri",
+  "createdAt" : "Wednesday 18-11-2026 At 03:30:00 [Asia/Riyadh]",
+  "updatedAt" : "Wednesday 18-11-2026 At 03:30:00 [Asia/Riyadh]",
+  "module" : "UC-016",
+  "testData" : "",
+  "preConditions" : ""
+}

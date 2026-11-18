@@ -1,0 +1,17 @@
+{
+  "order" : "n",
+  "description" : "A payment sent again lands once",
+  "expectedResult" : "AC-16.3: an upload sent again does not repeat the entry",
+  "status" : "PENDING",
+  "steps" : [],
+  "priority" : "MEDIUM",
+  "reference" : "AC-16.3",
+  "groups" : [],
+  "createdBy" : "Muteb F Almughyiri",
+  "updatedBy" : "Muteb F Almughyiri",
+  "createdAt" : "Wednesday 18-11-2026 At 03:30:00 [Asia/Riyadh]",
+  "updatedAt" : "Wednesday 18-11-2026 At 03:30:00 [Asia/Riyadh]",
+  "module" : "UC-029",
+  "testData" : "",
+  "preConditions" : ""
+}

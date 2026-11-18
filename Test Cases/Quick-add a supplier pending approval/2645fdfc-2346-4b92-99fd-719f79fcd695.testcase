@@ -1,0 +1,17 @@
+{
+  "order" : "m",
+  "description" : "What field adds waits for approval",
+  "expectedResult" : "What Field adds waits for approval, and shows so (AC-44.1)",
+  "status" : "PENDING",
+  "steps" : [],
+  "priority" : "MEDIUM",
+  "reference" : "AC-44.1",
+  "groups" : [],
+  "createdBy" : "Muteb F Almughyiri",
+  "updatedBy" : "Muteb F Almughyiri",
+  "createdAt" : "Wednesday 18-11-2026 At 03:30:00 [Asia/Riyadh]",
+  "updatedAt" : "Wednesday 18-11-2026 At 03:30:00 [Asia/Riyadh]",
+  "module" : "UC-019",
+  "testData" : "",
+  "preConditions" : ""
+}

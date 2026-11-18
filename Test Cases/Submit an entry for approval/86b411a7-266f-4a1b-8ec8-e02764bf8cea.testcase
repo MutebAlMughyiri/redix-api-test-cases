@@ -1,0 +1,17 @@
+{
+  "order" : "zu",
+  "description" : "The number filter lists that entry alone and a number no entry has lists nothing",
+  "expectedResult" : "AC-54.5, R9: number lists that entry alone, with every other filter; one the caller may not see lists nothing, as a number no entry has",
+  "status" : "PENDING",
+  "steps" : [],
+  "priority" : "MEDIUM",
+  "reference" : "AC-54.5",
+  "groups" : [],
+  "createdBy" : "Muteb F Almughyiri",
+  "updatedBy" : "Muteb F Almughyiri",
+  "createdAt" : "Wednesday 18-11-2026 At 03:30:00 [Asia/Riyadh]",
+  "updatedAt" : "Wednesday 18-11-2026 At 03:30:00 [Asia/Riyadh]",
+  "module" : "UC-028",
+  "testData" : "",
+  "preConditions" : ""
+}

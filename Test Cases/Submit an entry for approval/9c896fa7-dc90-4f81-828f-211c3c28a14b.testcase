@@ -1,0 +1,17 @@
+{
+  "order" : "zo",
+  "description" : "Each project counts its own and takes none of another projects numbers",
+  "expectedResult" : "AC-54.1, R5: every entry has «رقم القيد», one more than the last its project gave, counted within the project (redix-api #128)",
+  "status" : "PENDING",
+  "steps" : [],
+  "priority" : "MEDIUM",
+  "reference" : "AC-54.1",
+  "groups" : [],
+  "createdBy" : "Muteb F Almughyiri",
+  "updatedBy" : "Muteb F Almughyiri",
+  "createdAt" : "Wednesday 18-11-2026 At 03:30:00 [Asia/Riyadh]",
+  "updatedAt" : "Wednesday 18-11-2026 At 03:30:00 [Asia/Riyadh]",
+  "module" : "UC-028",
+  "testData" : "",
+  "preConditions" : ""
+}

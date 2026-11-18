@@ -1,0 +1,17 @@
+{
+  "order" : "zzm",
+  "description" : "An accounts login is limited as an unknown one is and the refused ask sends nothing",
+  "expectedResult" : "One login typed too often is refused for a while, whatever its case, an unknown one as an account's, and the refused ask sends nothing; another login is not (AC-02.8, D4, R5)",
+  "status" : "PENDING",
+  "steps" : [],
+  "priority" : "MEDIUM",
+  "reference" : "AC-02.8",
+  "groups" : [],
+  "createdBy" : "Muteb F Almughyiri",
+  "updatedBy" : "Muteb F Almughyiri",
+  "createdAt" : "Wednesday 18-11-2026 At 03:30:00 [Asia/Riyadh]",
+  "updatedAt" : "Wednesday 18-11-2026 At 03:30:00 [Asia/Riyadh]",
+  "module" : "UC-002",
+  "testData" : "",
+  "preConditions" : ""
+}

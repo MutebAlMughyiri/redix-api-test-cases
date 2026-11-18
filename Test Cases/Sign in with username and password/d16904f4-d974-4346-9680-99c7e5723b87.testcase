@@ -1,0 +1,17 @@
+{
+  "order" : "zt",
+  "description" : "The answer leaves before the code is sent so how long it takes says nothing",
+  "expectedResult" : "The answer leaves before the code is made and sent, so how long it takes says nothing of the account (AC-02.7, R5)",
+  "status" : "PENDING",
+  "steps" : [],
+  "priority" : "MEDIUM",
+  "reference" : "AC-02.7",
+  "groups" : [],
+  "createdBy" : "Muteb F Almughyiri",
+  "updatedBy" : "Muteb F Almughyiri",
+  "createdAt" : "Wednesday 18-11-2026 At 03:30:00 [Asia/Riyadh]",
+  "updatedAt" : "Wednesday 18-11-2026 At 03:30:00 [Asia/Riyadh]",
+  "module" : "UC-002",
+  "testData" : "",
+  "preConditions" : ""
+}

@@ -1,0 +1,17 @@
+{
+  "order" : "t",
+  "description" : "10g_r9_the entrys page carries every file it holds the oldest first each with its role name type and date",
+  "expectedResult" : "AC-46.10g, R9: the entry's own route carries every file it holds, the oldest first, each with its role, name, type and date",
+  "status" : "PENDING",
+  "steps" : [],
+  "priority" : "MEDIUM",
+  "reference" : "AC-46",
+  "groups" : [],
+  "createdBy" : "Muteb F Almughyiri",
+  "updatedBy" : "Muteb F Almughyiri",
+  "createdAt" : "Wednesday 18-11-2026 At 03:30:00 [Asia/Riyadh]",
+  "updatedAt" : "Wednesday 18-11-2026 At 03:30:00 [Asia/Riyadh]",
+  "module" : "UC-039",
+  "testData" : "",
+  "preConditions" : ""
+}

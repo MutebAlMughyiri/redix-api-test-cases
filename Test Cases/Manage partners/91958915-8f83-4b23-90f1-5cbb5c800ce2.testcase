@@ -1,0 +1,17 @@
+{
+  "order" : "z",
+  "description" : "Without see all capital someone sees only the partners chosen for them and their own login gives no sight",
+  "expectedResult" : "redix-api #106: someone without SeeAllCapital sees only the partners chosen for them, or none; a partner's own login gives no sight (BR-31)",
+  "status" : "PENDING",
+  "steps" : [],
+  "priority" : "MEDIUM",
+  "reference" : "BR-31",
+  "groups" : [],
+  "createdBy" : "Muteb F Almughyiri",
+  "updatedBy" : "Muteb F Almughyiri",
+  "createdAt" : "Wednesday 18-11-2026 At 03:30:00 [Asia/Riyadh]",
+  "updatedAt" : "Wednesday 18-11-2026 At 03:30:00 [Asia/Riyadh]",
+  "module" : "UC-016",
+  "testData" : "",
+  "preConditions" : ""
+}

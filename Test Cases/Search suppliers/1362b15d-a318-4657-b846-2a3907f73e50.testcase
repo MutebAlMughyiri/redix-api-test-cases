@@ -1,0 +1,17 @@
+{
+  "order" : "m",
+  "description" : "Three letters of the name find the supplier",
+  "expectedResult" : "Three letters of the name find the supplier (AC-43.1)",
+  "status" : "PENDING",
+  "steps" : [],
+  "priority" : "MEDIUM",
+  "reference" : "AC-43.1",
+  "groups" : [],
+  "createdBy" : "Muteb F Almughyiri",
+  "updatedBy" : "Muteb F Almughyiri",
+  "createdAt" : "Wednesday 18-11-2026 At 03:30:00 [Asia/Riyadh]",
+  "updatedAt" : "Wednesday 18-11-2026 At 03:30:00 [Asia/Riyadh]",
+  "module" : "UC-018",
+  "testData" : "",
+  "preConditions" : ""
+}

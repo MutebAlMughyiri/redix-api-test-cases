@@ -1,0 +1,17 @@
+{
+  "order" : "zn",
+  "description" : "Notification project key_every notification keeps its project which the database now names",
+  "expectedResult" : "A notification names a project the database knows (findings row 213)",
+  "status" : "PENDING",
+  "steps" : [],
+  "priority" : "MEDIUM",
+  "reference" : "",
+  "groups" : [],
+  "createdBy" : "Muteb F Almughyiri",
+  "updatedBy" : "Muteb F Almughyiri",
+  "createdAt" : "Wednesday 18-11-2026 At 03:30:00 [Asia/Riyadh]",
+  "updatedAt" : "Wednesday 18-11-2026 At 03:30:00 [Asia/Riyadh]",
+  "module" : "UC-036",
+  "testData" : "",
+  "preConditions" : ""
+}

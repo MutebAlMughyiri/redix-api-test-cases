@@ -1,0 +1,17 @@
+{
+  "order" : "zo",
+  "description" : "A contracts parties change while it has no payments and the history shows them old and new",
+  "expectedResult" : "A contract's contractor and item change while it has no payments, in the History table, old and new; new ones answer as adding does",
+  "status" : "PENDING",
+  "steps" : [],
+  "priority" : "MEDIUM",
+  "reference" : "",
+  "groups" : [],
+  "createdBy" : "Muteb F Almughyiri",
+  "updatedBy" : "Muteb F Almughyiri",
+  "createdAt" : "Wednesday 18-11-2026 At 03:30:00 [Asia/Riyadh]",
+  "updatedAt" : "Wednesday 18-11-2026 At 03:30:00 [Asia/Riyadh]",
+  "module" : "UC-020",
+  "testData" : "",
+  "preConditions" : ""
+}

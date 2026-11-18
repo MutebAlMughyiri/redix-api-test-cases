@@ -1,0 +1,17 @@
+{
+  "order" : "t",
+  "description" : "Part of the VAT number finds the supplier",
+  "expectedResult" : "Part of the VAT number finds the supplier (AC-43.1)",
+  "status" : "PENDING",
+  "steps" : [],
+  "priority" : "MEDIUM",
+  "reference" : "AC-43.1",
+  "groups" : [],
+  "createdBy" : "Muteb F Almughyiri",
+  "updatedBy" : "Muteb F Almughyiri",
+  "createdAt" : "Wednesday 18-11-2026 At 03:30:00 [Asia/Riyadh]",
+  "updatedAt" : "Wednesday 18-11-2026 At 03:30:00 [Asia/Riyadh]",
+  "module" : "UC-018",
+  "testData" : "",
+  "preConditions" : ""
+}

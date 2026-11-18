@@ -1,0 +1,17 @@
+{
+  "order" : "zq",
+  "description" : "An upload sent again answers its number and takes no other",
+  "expectedResult" : "AC-54.2, R3: given when the server first keeps the entry, so a draft and a pending entry have theirs; a deleted draft leaves a gap, and an upload sent again takes no other (D1, D3)",
+  "status" : "PENDING",
+  "steps" : [],
+  "priority" : "MEDIUM",
+  "reference" : "AC-54.2",
+  "groups" : [],
+  "createdBy" : "Muteb F Almughyiri",
+  "updatedBy" : "Muteb F Almughyiri",
+  "createdAt" : "Wednesday 18-11-2026 At 03:30:00 [Asia/Riyadh]",
+  "updatedAt" : "Wednesday 18-11-2026 At 03:30:00 [Asia/Riyadh]",
+  "module" : "UC-028",
+  "testData" : "",
+  "preConditions" : ""
+}

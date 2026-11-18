@@ -1,0 +1,17 @@
+{
+  "order" : "q",
+  "description" : "A removed document leaves the list but its file stays",
+  "expectedResult" : "A removed document leaves the list; its file stays",
+  "status" : "PENDING",
+  "steps" : [],
+  "priority" : "MEDIUM",
+  "reference" : "",
+  "groups" : [],
+  "createdBy" : "Muteb F Almughyiri",
+  "updatedBy" : "Muteb F Almughyiri",
+  "createdAt" : "Wednesday 18-11-2026 At 03:30:00 [Asia/Riyadh]",
+  "updatedAt" : "Wednesday 18-11-2026 At 03:30:00 [Asia/Riyadh]",
+  "module" : "UC-064",
+  "testData" : "",
+  "preConditions" : ""
+}

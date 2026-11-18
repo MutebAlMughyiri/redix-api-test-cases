@@ -1,0 +1,17 @@
+{
+  "order" : "t",
+  "description" : "A report is issued with the number and the time it is given and the next one follows it",
+  "expectedResult" : "D9, AC-53.7: a report is issued with the number and the time it is given, and the next one follows it",
+  "status" : "PENDING",
+  "steps" : [],
+  "priority" : "MEDIUM",
+  "reference" : "AC-53.7",
+  "groups" : [],
+  "createdBy" : "Muteb F Almughyiri",
+  "updatedBy" : "Muteb F Almughyiri",
+  "createdAt" : "Wednesday 18-11-2026 At 03:30:00 [Asia/Riyadh]",
+  "updatedAt" : "Wednesday 18-11-2026 At 03:30:00 [Asia/Riyadh]",
+  "module" : "UC-071",
+  "testData" : "",
+  "preConditions" : ""
+}

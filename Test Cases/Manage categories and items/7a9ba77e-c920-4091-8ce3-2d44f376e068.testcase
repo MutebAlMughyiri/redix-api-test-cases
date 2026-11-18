@@ -1,0 +1,17 @@
+{
+  "order" : "u",
+  "description" : "The database refuses a structure source naming no project",
+  "expectedResult" : "An earlier project chosen at registration is a row of its own, with its History line; choosing the template keeps none, and the database refuses a source naming no project (findings row 214)",
+  "status" : "PENDING",
+  "steps" : [],
+  "priority" : "MEDIUM",
+  "reference" : "",
+  "groups" : [],
+  "createdBy" : "Muteb F Almughyiri",
+  "updatedBy" : "Muteb F Almughyiri",
+  "createdAt" : "Wednesday 18-11-2026 At 03:30:00 [Asia/Riyadh]",
+  "updatedAt" : "Wednesday 18-11-2026 At 03:30:00 [Asia/Riyadh]",
+  "module" : "UC-012",
+  "testData" : "",
+  "preConditions" : ""
+}

@@ -1,0 +1,17 @@
+{
+  "order" : "zzq",
+  "description" : "Row_203_whose draft names a partner is told only to whoever may delete partners",
+  "expectedResult" : "Findings row 203, BR-42: whose draft names a partner is told only to whoever holds ManageSettings",
+  "status" : "PENDING",
+  "steps" : [],
+  "priority" : "MEDIUM",
+  "reference" : "BR-42",
+  "groups" : [],
+  "createdBy" : "Muteb F Almughyiri",
+  "updatedBy" : "Muteb F Almughyiri",
+  "createdAt" : "Wednesday 18-11-2026 At 03:30:00 [Asia/Riyadh]",
+  "updatedAt" : "Wednesday 18-11-2026 At 03:30:00 [Asia/Riyadh]",
+  "module" : "UC-016",
+  "testData" : "",
+  "preConditions" : ""
+}

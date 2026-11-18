@@ -1,0 +1,17 @@
+{
+  "order" : "zs",
+  "description" : "An azure sender not set up throws nothing so the answer stays as it was",
+  "expectedResult" : "Asking answers the same whether or not the account or its email exists, and sends nothing then (AC-02.7, R5)",
+  "status" : "PENDING",
+  "steps" : [],
+  "priority" : "MEDIUM",
+  "reference" : "AC-02.7",
+  "groups" : [],
+  "createdBy" : "Muteb F Almughyiri",
+  "updatedBy" : "Muteb F Almughyiri",
+  "createdAt" : "Wednesday 18-11-2026 At 03:30:00 [Asia/Riyadh]",
+  "updatedAt" : "Wednesday 18-11-2026 At 03:30:00 [Asia/Riyadh]",
+  "module" : "UC-002",
+  "testData" : "",
+  "preConditions" : ""
+}

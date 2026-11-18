@@ -1,0 +1,17 @@
+{
+  "order" : "t",
+  "description" : "Field sends their own entry and not anothers and finance sends anyones rejected entry but not their draft",
+  "expectedResult" : "BR-42: a draft is its author's alone until it is sent; Finance sends anyone's rejected entry again",
+  "status" : "PENDING",
+  "steps" : [],
+  "priority" : "MEDIUM",
+  "reference" : "BR-42",
+  "groups" : [],
+  "createdBy" : "Muteb F Almughyiri",
+  "updatedBy" : "Muteb F Almughyiri",
+  "createdAt" : "Wednesday 18-11-2026 At 03:30:00 [Asia/Riyadh]",
+  "updatedAt" : "Wednesday 18-11-2026 At 03:30:00 [Asia/Riyadh]",
+  "module" : "UC-028",
+  "testData" : "",
+  "preConditions" : ""
+}

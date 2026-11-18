@@ -1,0 +1,17 @@
+{
+  "order" : "z",
+  "description" : "A column added to one item is asked in that item only",
+  "expectedResult" : "A column added to one item is asked in that item only (AC-41.1)",
+  "status" : "PENDING",
+  "steps" : [],
+  "priority" : "MEDIUM",
+  "reference" : "AC-41.1",
+  "groups" : [],
+  "createdBy" : "Muteb F Almughyiri",
+  "updatedBy" : "Muteb F Almughyiri",
+  "createdAt" : "Wednesday 18-11-2026 At 03:30:00 [Asia/Riyadh]",
+  "updatedAt" : "Wednesday 18-11-2026 At 03:30:00 [Asia/Riyadh]",
+  "module" : "UC-013",
+  "testData" : "",
+  "preConditions" : ""
+}

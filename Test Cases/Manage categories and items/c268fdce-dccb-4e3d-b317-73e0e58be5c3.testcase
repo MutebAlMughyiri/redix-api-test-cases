@@ -1,0 +1,17 @@
+{
+  "order" : "v",
+  "description" : "Land cost can be recorded because its category holds one item of both types",
+  "expectedResult" : "The category تكلفة الأراضي holds one item, تكلفة الأرض, of both types, because an entry needs an item (BRS section 3 lists it empty)",
+  "status" : "PENDING",
+  "steps" : [],
+  "priority" : "MEDIUM",
+  "reference" : "",
+  "groups" : [],
+  "createdBy" : "Muteb F Almughyiri",
+  "updatedBy" : "Muteb F Almughyiri",
+  "createdAt" : "Wednesday 18-11-2026 At 03:30:00 [Asia/Riyadh]",
+  "updatedAt" : "Wednesday 18-11-2026 At 03:30:00 [Asia/Riyadh]",
+  "module" : "UC-012",
+  "testData" : "",
+  "preConditions" : ""
+}

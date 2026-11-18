@@ -1,0 +1,17 @@
+{
+  "order" : "zzo",
+  "description" : "Projects may repeat a name and each their units names",
+  "expectedResult" : "A unit's name cannot repeat inside its project, compared trimmed; projects may repeat a name, because each is separate (BR-37, BR-33)",
+  "status" : "PENDING",
+  "steps" : [],
+  "priority" : "MEDIUM",
+  "reference" : "BR-33, BR-37",
+  "groups" : [],
+  "createdBy" : "Muteb F Almughyiri",
+  "updatedBy" : "Muteb F Almughyiri",
+  "createdAt" : "Wednesday 18-11-2026 At 03:30:00 [Asia/Riyadh]",
+  "updatedAt" : "Wednesday 18-11-2026 At 03:30:00 [Asia/Riyadh]",
+  "module" : "UC-006",
+  "testData" : "",
+  "preConditions" : ""
+}

@@ -1,0 +1,17 @@
+{
+  "order" : "zx",
+  "description" : "An entry keeps the ID of the choice chosen and is refused its name",
+  "expectedResult" : "An entry keeps the id of the choice chosen, and a choice's name is refused (redix-api #129, R5)",
+  "status" : "PENDING",
+  "steps" : [],
+  "priority" : "MEDIUM",
+  "reference" : "",
+  "groups" : [],
+  "createdBy" : "Muteb F Almughyiri",
+  "updatedBy" : "Muteb F Almughyiri",
+  "createdAt" : "Wednesday 18-11-2026 At 03:30:00 [Asia/Riyadh]",
+  "updatedAt" : "Wednesday 18-11-2026 At 03:30:00 [Asia/Riyadh]",
+  "module" : "UC-013",
+  "testData" : "",
+  "preConditions" : ""
+}

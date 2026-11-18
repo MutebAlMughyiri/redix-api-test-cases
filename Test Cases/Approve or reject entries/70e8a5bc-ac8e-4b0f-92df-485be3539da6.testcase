@@ -1,0 +1,17 @@
+{
+  "order" : "v",
+  "description" : "Each sending and decision is recorded with who and why",
+  "expectedResult" : "Each step is recorded, with who and why",
+  "status" : "PENDING",
+  "steps" : [],
+  "priority" : "MEDIUM",
+  "reference" : "",
+  "groups" : [],
+  "createdBy" : "Muteb F Almughyiri",
+  "updatedBy" : "Muteb F Almughyiri",
+  "createdAt" : "Wednesday 18-11-2026 At 03:30:00 [Asia/Riyadh]",
+  "updatedAt" : "Wednesday 18-11-2026 At 03:30:00 [Asia/Riyadh]",
+  "module" : "UC-032",
+  "testData" : "",
+  "preConditions" : ""
+}

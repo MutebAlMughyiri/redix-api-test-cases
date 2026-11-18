@@ -1,0 +1,17 @@
+{
+  "order" : "zq",
+  "description" : "A unit nothing uses is deleted and the history keeps what it was",
+  "expectedResult" : "A unit is deleted whatever expenses and contracts hold, since they belong to the project; the History table keeps what it was (BR-38)",
+  "status" : "PENDING",
+  "steps" : [],
+  "priority" : "MEDIUM",
+  "reference" : "BR-38",
+  "groups" : [],
+  "createdBy" : "Muteb F Almughyiri",
+  "updatedBy" : "Muteb F Almughyiri",
+  "createdAt" : "Wednesday 18-11-2026 At 03:30:00 [Asia/Riyadh]",
+  "updatedAt" : "Wednesday 18-11-2026 At 03:30:00 [Asia/Riyadh]",
+  "module" : "UC-006",
+  "testData" : "",
+  "preConditions" : ""
+}

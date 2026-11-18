@@ -1,0 +1,17 @@
+{
+  "order" : "zu",
+  "description" : "The migration marks the row the approval named in a project approved before it",
+  "expectedResult" : "The migration marks the row the approval named, in a project approved before it",
+  "status" : "PENDING",
+  "steps" : [],
+  "priority" : "MEDIUM",
+  "reference" : "",
+  "groups" : [],
+  "createdBy" : "Muteb F Almughyiri",
+  "updatedBy" : "Muteb F Almughyiri",
+  "createdAt" : "Wednesday 18-11-2026 At 03:30:00 [Asia/Riyadh]",
+  "updatedAt" : "Wednesday 18-11-2026 At 03:30:00 [Asia/Riyadh]",
+  "module" : "UC-017",
+  "testData" : "",
+  "preConditions" : ""
+}

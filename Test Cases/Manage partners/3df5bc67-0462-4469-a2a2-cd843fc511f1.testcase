@@ -1,0 +1,17 @@
+{
+  "order" : "zx",
+  "description" : "A partner added with a login is one line and taking the login away is a line with none",
+  "expectedResult" : "Findings row 214: a login given, changed or taken in an edit is a line of its own, read from PartnerUsers; the login given when a partner is added is part of the partner's added line, which names no login, as PartnerHistoryLine.Login says; rows written before keep reading as they did",
+  "status" : "PENDING",
+  "steps" : [],
+  "priority" : "MEDIUM",
+  "reference" : "",
+  "groups" : [],
+  "createdBy" : "Muteb F Almughyiri",
+  "updatedBy" : "Muteb F Almughyiri",
+  "createdAt" : "Wednesday 18-11-2026 At 03:30:00 [Asia/Riyadh]",
+  "updatedAt" : "Wednesday 18-11-2026 At 03:30:00 [Asia/Riyadh]",
+  "module" : "UC-016",
+  "testData" : "",
+  "preConditions" : ""
+}

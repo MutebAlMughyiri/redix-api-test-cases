@@ -1,0 +1,17 @@
+{
+  "order" : "t",
+  "description" : "The manager changing a persons email ends their code to an address not yet confirmed",
+  "expectedResult" : "Another email ends the person's codes, a reset code to the old address and a code to an address not yet confirmed; an edit keeping the email ends none (redix-api #127)",
+  "status" : "PENDING",
+  "steps" : [],
+  "priority" : "MEDIUM",
+  "reference" : "",
+  "groups" : [],
+  "createdBy" : "Muteb F Almughyiri",
+  "updatedBy" : "Muteb F Almughyiri",
+  "createdAt" : "Wednesday 18-11-2026 At 03:30:00 [Asia/Riyadh]",
+  "updatedAt" : "Wednesday 18-11-2026 At 03:30:00 [Asia/Riyadh]",
+  "module" : "UC-007",
+  "testData" : "",
+  "preConditions" : ""
+}

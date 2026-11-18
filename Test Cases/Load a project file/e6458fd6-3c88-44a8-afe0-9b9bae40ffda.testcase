@@ -1,0 +1,17 @@
+{
+  "order" : "n",
+  "description" : "A file that is not a redix project file is refused and nothing is read",
+  "expectedResult" : "AC-53.9: a file that is not a REDIX project file, or is not laid out as one, is refused with notAProjectFile, and nothing is read",
+  "status" : "PENDING",
+  "steps" : [],
+  "priority" : "MEDIUM",
+  "reference" : "AC-53.9",
+  "groups" : [],
+  "createdBy" : "Muteb F Almughyiri",
+  "updatedBy" : "Muteb F Almughyiri",
+  "createdAt" : "Wednesday 18-11-2026 At 03:30:00 [Asia/Riyadh]",
+  "updatedAt" : "Wednesday 18-11-2026 At 03:30:00 [Asia/Riyadh]",
+  "module" : "UC-071",
+  "testData" : "",
+  "preConditions" : ""
+}

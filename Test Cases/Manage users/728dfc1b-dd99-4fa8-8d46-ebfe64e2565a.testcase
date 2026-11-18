@@ -1,0 +1,17 @@
+{
+  "order" : "zo",
+  "description" : "Every route of a project he is inactive in refuses him as for a project he is not in",
+  "expectedResult" : "Every route of a project he is inactive in refuses him as for a project he is not in; his other projects work with the same session (R5)",
+  "status" : "PENDING",
+  "steps" : [],
+  "priority" : "MEDIUM",
+  "reference" : "",
+  "groups" : [],
+  "createdBy" : "Muteb F Almughyiri",
+  "updatedBy" : "Muteb F Almughyiri",
+  "createdAt" : "Wednesday 18-11-2026 At 03:30:00 [Asia/Riyadh]",
+  "updatedAt" : "Wednesday 18-11-2026 At 03:30:00 [Asia/Riyadh]",
+  "module" : "UC-007",
+  "testData" : "",
+  "preConditions" : ""
+}

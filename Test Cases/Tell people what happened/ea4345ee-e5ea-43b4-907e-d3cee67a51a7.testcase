@@ -1,0 +1,17 @@
+{
+  "order" : "y",
+  "description" : "The database refuses a notification naming an entry that is not",
+  "expectedResult" : "A notification about an entry names it in a row of its own, and one about the project has none; the database refuses an entry that is not (findings row 214)",
+  "status" : "PENDING",
+  "steps" : [],
+  "priority" : "MEDIUM",
+  "reference" : "",
+  "groups" : [],
+  "createdBy" : "Muteb F Almughyiri",
+  "updatedBy" : "Muteb F Almughyiri",
+  "createdAt" : "Wednesday 18-11-2026 At 03:30:00 [Asia/Riyadh]",
+  "updatedAt" : "Wednesday 18-11-2026 At 03:30:00 [Asia/Riyadh]",
+  "module" : "UC-036",
+  "testData" : "",
+  "preConditions" : ""
+}

@@ -1,0 +1,17 @@
+{
+  "order" : "r",
+  "description" : "A pending supplier is offered to who added it and to finance only",
+  "expectedResult" : "A pending supplier is offered to who added it and to Finance only (step 3)",
+  "status" : "PENDING",
+  "steps" : [],
+  "priority" : "MEDIUM",
+  "reference" : "",
+  "groups" : [],
+  "createdBy" : "Muteb F Almughyiri",
+  "updatedBy" : "Muteb F Almughyiri",
+  "createdAt" : "Wednesday 18-11-2026 At 03:30:00 [Asia/Riyadh]",
+  "updatedAt" : "Wednesday 18-11-2026 At 03:30:00 [Asia/Riyadh]",
+  "module" : "UC-019",
+  "testData" : "",
+  "preConditions" : ""
+}

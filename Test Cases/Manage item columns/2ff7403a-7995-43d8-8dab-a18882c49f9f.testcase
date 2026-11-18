@@ -1,0 +1,17 @@
+{
+  "order" : "q",
+  "description" : "Each column is named with the approved workbooks word",
+  "expectedResult" : "Every template holds «الوصف» and none «ملاحظات» or «الصنف»; each column is named with the approved workbook's word (redix-api #129 D1)",
+  "status" : "PENDING",
+  "steps" : [],
+  "priority" : "MEDIUM",
+  "reference" : "",
+  "groups" : [],
+  "createdBy" : "Muteb F Almughyiri",
+  "updatedBy" : "Muteb F Almughyiri",
+  "createdAt" : "Wednesday 18-11-2026 At 03:30:00 [Asia/Riyadh]",
+  "updatedAt" : "Wednesday 18-11-2026 At 03:30:00 [Asia/Riyadh]",
+  "module" : "UC-013",
+  "testData" : "",
+  "preConditions" : ""
+}

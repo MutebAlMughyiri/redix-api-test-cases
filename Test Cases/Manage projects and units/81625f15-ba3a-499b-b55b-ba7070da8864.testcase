@@ -1,0 +1,17 @@
+{
+  "order" : "n",
+  "description" : "More_info_an empty description clears it",
+  "expectedResult" : "A project's description is kept for everyone in it, trimmed, and in the History table; an empty one clears it (redix-api 93)",
+  "status" : "PENDING",
+  "steps" : [],
+  "priority" : "MEDIUM",
+  "reference" : "",
+  "groups" : [],
+  "createdBy" : "Muteb F Almughyiri",
+  "updatedBy" : "Muteb F Almughyiri",
+  "createdAt" : "Wednesday 18-11-2026 At 03:30:00 [Asia/Riyadh]",
+  "updatedAt" : "Wednesday 18-11-2026 At 03:30:00 [Asia/Riyadh]",
+  "module" : "UC-006",
+  "testData" : "",
+  "preConditions" : ""
+}

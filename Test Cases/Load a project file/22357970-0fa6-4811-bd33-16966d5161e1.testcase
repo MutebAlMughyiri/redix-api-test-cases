@@ -1,0 +1,17 @@
+{
+  "order" : "zq",
+  "description" : "An account of the actual balances the project lacks is refused and nothing is saved",
+  "expectedResult" : "AC-53.8, D6: an account of the actual balances the project lacks is accountNotInProject, and nothing is saved",
+  "status" : "PENDING",
+  "steps" : [],
+  "priority" : "MEDIUM",
+  "reference" : "AC-53.8",
+  "groups" : [],
+  "createdBy" : "Muteb F Almughyiri",
+  "updatedBy" : "Muteb F Almughyiri",
+  "createdAt" : "Wednesday 18-11-2026 At 03:30:00 [Asia/Riyadh]",
+  "updatedAt" : "Wednesday 18-11-2026 At 03:30:00 [Asia/Riyadh]",
+  "module" : "UC-071",
+  "testData" : "",
+  "preConditions" : ""
+}

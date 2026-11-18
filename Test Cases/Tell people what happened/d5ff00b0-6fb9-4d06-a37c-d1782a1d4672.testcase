@@ -1,0 +1,17 @@
+{
+  "order" : "p",
+  "description" : "Approving tells its author",
+  "expectedResult" : "AC-20.1: a decision tells the entry's author",
+  "status" : "PENDING",
+  "steps" : [],
+  "priority" : "MEDIUM",
+  "reference" : "AC-20.1",
+  "groups" : [],
+  "createdBy" : "Muteb F Almughyiri",
+  "updatedBy" : "Muteb F Almughyiri",
+  "createdAt" : "Wednesday 18-11-2026 At 03:30:00 [Asia/Riyadh]",
+  "updatedAt" : "Wednesday 18-11-2026 At 03:30:00 [Asia/Riyadh]",
+  "module" : "UC-036",
+  "testData" : "",
+  "preConditions" : ""
+}

@@ -1,0 +1,17 @@
+{
+  "order" : "zt",
+  "description" : "The database refuses a second entry of the project with the same number",
+  "expectedResult" : "D3, G1: entries arriving at once each take their own number, by one atomic UPDATE … RETURNING on the project's counter; the unique index ix_entries_project_id_number refuses a second",
+  "status" : "PENDING",
+  "steps" : [],
+  "priority" : "MEDIUM",
+  "reference" : "",
+  "groups" : [],
+  "createdBy" : "Muteb F Almughyiri",
+  "updatedBy" : "Muteb F Almughyiri",
+  "createdAt" : "Wednesday 18-11-2026 At 03:30:00 [Asia/Riyadh]",
+  "updatedAt" : "Wednesday 18-11-2026 At 03:30:00 [Asia/Riyadh]",
+  "module" : "UC-028",
+  "testData" : "",
+  "preConditions" : ""
+}

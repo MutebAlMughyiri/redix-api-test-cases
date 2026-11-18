@@ -1,0 +1,17 @@
+{
+  "order" : "zzo",
+  "description" : "A reset ends every session unlocks the account and asks for no other change",
+  "expectedResult" : "A reset ends every session, unlocks the account and asks for no other change; a wrong code ends nothing (AC-02.9, R7)",
+  "status" : "PENDING",
+  "steps" : [],
+  "priority" : "MEDIUM",
+  "reference" : "AC-02.9",
+  "groups" : [],
+  "createdBy" : "Muteb F Almughyiri",
+  "updatedBy" : "Muteb F Almughyiri",
+  "createdAt" : "Wednesday 18-11-2026 At 03:30:00 [Asia/Riyadh]",
+  "updatedAt" : "Wednesday 18-11-2026 At 03:30:00 [Asia/Riyadh]",
+  "module" : "UC-002",
+  "testData" : "",
+  "preConditions" : ""
+}

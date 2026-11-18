@@ -1,0 +1,17 @@
+{
+  "order" : "zr",
+  "description" : "The admin sets his email in settings and then resets with it",
+  "expectedResult" : "The admin sets his email here and then resets his password with it (D6, R10)",
+  "status" : "PENDING",
+  "steps" : [],
+  "priority" : "MEDIUM",
+  "reference" : "",
+  "groups" : [],
+  "createdBy" : "Muteb F Almughyiri",
+  "updatedBy" : "Muteb F Almughyiri",
+  "createdAt" : "Wednesday 18-11-2026 At 03:30:00 [Asia/Riyadh]",
+  "updatedAt" : "Wednesday 18-11-2026 At 03:30:00 [Asia/Riyadh]",
+  "module" : "UC-010",
+  "testData" : "",
+  "preConditions" : ""
+}

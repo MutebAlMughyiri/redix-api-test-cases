@@ -1,0 +1,17 @@
+{
+  "order" : "m",
+  "description" : "A picture or a PDF is kept with its name type size and hash",
+  "expectedResult" : "An image or a PDF is kept with its name, type, size and hash (FR-09)",
+  "status" : "PENDING",
+  "steps" : [],
+  "priority" : "MEDIUM",
+  "reference" : "FR-09",
+  "groups" : [],
+  "createdBy" : "Muteb F Almughyiri",
+  "updatedBy" : "Muteb F Almughyiri",
+  "createdAt" : "Wednesday 18-11-2026 At 03:30:00 [Asia/Riyadh]",
+  "updatedAt" : "Wednesday 18-11-2026 At 03:30:00 [Asia/Riyadh]",
+  "module" : "UC-021",
+  "testData" : "",
+  "preConditions" : ""
+}

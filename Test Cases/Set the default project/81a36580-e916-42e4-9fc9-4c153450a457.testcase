@@ -1,0 +1,17 @@
+{
+  "order" : "zn",
+  "description" : "A code asked for a new address ends no reset code while the old address holds",
+  "expectedResult" : "A new address holding ends the reset code sent to the old one; asking a code for a new address ends none while the old one holds (redix-api #127)",
+  "status" : "PENDING",
+  "steps" : [],
+  "priority" : "MEDIUM",
+  "reference" : "",
+  "groups" : [],
+  "createdBy" : "Muteb F Almughyiri",
+  "updatedBy" : "Muteb F Almughyiri",
+  "createdAt" : "Wednesday 18-11-2026 At 03:30:00 [Asia/Riyadh]",
+  "updatedAt" : "Wednesday 18-11-2026 At 03:30:00 [Asia/Riyadh]",
+  "module" : "UC-010",
+  "testData" : "",
+  "preConditions" : ""
+}

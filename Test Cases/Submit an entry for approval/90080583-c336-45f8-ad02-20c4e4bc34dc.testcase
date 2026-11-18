@@ -1,0 +1,17 @@
+{
+  "order" : "x",
+  "description" : "Row_201_someone elses draft and an entry that does not exist are not found",
+  "expectedResult" : "Findings row 201: an opened entry reads itself by its id; someone else's draft is not found",
+  "status" : "PENDING",
+  "steps" : [],
+  "priority" : "MEDIUM",
+  "reference" : "",
+  "groups" : [],
+  "createdBy" : "Muteb F Almughyiri",
+  "updatedBy" : "Muteb F Almughyiri",
+  "createdAt" : "Wednesday 18-11-2026 At 03:30:00 [Asia/Riyadh]",
+  "updatedAt" : "Wednesday 18-11-2026 At 03:30:00 [Asia/Riyadh]",
+  "module" : "UC-028",
+  "testData" : "",
+  "preConditions" : ""
+}

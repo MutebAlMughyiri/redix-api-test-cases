@@ -1,0 +1,17 @@
+{
+  "order" : "zn",
+  "description" : "A partner is added by name to the projects one capital item and none is added while it is disabled",
+  "expectedResult" : "redix-api #106: a partner is added by name to the project's one capital item, which nobody chooses; none is added while it is disabled",
+  "status" : "PENDING",
+  "steps" : [],
+  "priority" : "MEDIUM",
+  "reference" : "",
+  "groups" : [],
+  "createdBy" : "Muteb F Almughyiri",
+  "updatedBy" : "Muteb F Almughyiri",
+  "createdAt" : "Wednesday 18-11-2026 At 03:30:00 [Asia/Riyadh]",
+  "updatedAt" : "Wednesday 18-11-2026 At 03:30:00 [Asia/Riyadh]",
+  "module" : "UC-016",
+  "testData" : "",
+  "preConditions" : ""
+}

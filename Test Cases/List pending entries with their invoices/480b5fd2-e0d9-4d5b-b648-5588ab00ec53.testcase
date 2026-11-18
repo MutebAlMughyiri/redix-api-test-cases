@@ -1,0 +1,17 @@
+{
+  "order" : "o",
+  "description" : "Finances inbox leads each waiting entry with its number",
+  "expectedResult" : "AC-54.4 (redix-api #128): each row carries its entry's own «رقم القيد», never its place in the inbox",
+  "status" : "PENDING",
+  "steps" : [],
+  "priority" : "MEDIUM",
+  "reference" : "AC-54.4",
+  "groups" : [],
+  "createdBy" : "Muteb F Almughyiri",
+  "updatedBy" : "Muteb F Almughyiri",
+  "createdAt" : "Wednesday 18-11-2026 At 03:30:00 [Asia/Riyadh]",
+  "updatedAt" : "Wednesday 18-11-2026 At 03:30:00 [Asia/Riyadh]",
+  "module" : "UC-031",
+  "testData" : "",
+  "preConditions" : ""
+}

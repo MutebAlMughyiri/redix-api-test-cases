@@ -1,0 +1,17 @@
+{
+  "order" : "zm",
+  "description" : "A project holding an entry says so and refuses the file with project has entries",
+  "expectedResult" : "AC-53.3, D15: a project holding an entry says so, and refuses the file with projectHasEntries",
+  "status" : "PENDING",
+  "steps" : [],
+  "priority" : "MEDIUM",
+  "reference" : "AC-53.3",
+  "groups" : [],
+  "createdBy" : "Muteb F Almughyiri",
+  "updatedBy" : "Muteb F Almughyiri",
+  "createdAt" : "Wednesday 18-11-2026 At 03:30:00 [Asia/Riyadh]",
+  "updatedAt" : "Wednesday 18-11-2026 At 03:30:00 [Asia/Riyadh]",
+  "module" : "UC-071",
+  "testData" : "",
+  "preConditions" : ""
+}

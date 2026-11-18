@@ -1,0 +1,17 @@
+{
+  "order" : "zt",
+  "description" : "A deleted partner cannot be chosen for someone",
+  "expectedResult" : "redix-api #100: a partner at zero capital that nothing unapproved names is deleted softly: they leave Partners, Add entry, the item's tables and the capital lines, their movements stay in the entries, reports and History, and their account is free; one with capital or something waiting is not, and the list says which",
+  "status" : "PENDING",
+  "steps" : [],
+  "priority" : "MEDIUM",
+  "reference" : "",
+  "groups" : [],
+  "createdBy" : "Muteb F Almughyiri",
+  "updatedBy" : "Muteb F Almughyiri",
+  "createdAt" : "Wednesday 18-11-2026 At 03:30:00 [Asia/Riyadh]",
+  "updatedAt" : "Wednesday 18-11-2026 At 03:30:00 [Asia/Riyadh]",
+  "module" : "UC-016",
+  "testData" : "",
+  "preConditions" : ""
+}

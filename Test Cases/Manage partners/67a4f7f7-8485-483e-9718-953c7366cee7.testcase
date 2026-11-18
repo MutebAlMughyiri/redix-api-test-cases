@@ -1,0 +1,17 @@
+{
+  "order" : "zzp",
+  "description" : "Row_202_a delete that takes the callers own drafts needs delete entries too while one with no draft of theirs does not",
+  "expectedResult" : "Findings row 202: a delete that would take the caller's own drafts needs DeleteEntries too",
+  "status" : "PENDING",
+  "steps" : [],
+  "priority" : "MEDIUM",
+  "reference" : "",
+  "groups" : [],
+  "createdBy" : "Muteb F Almughyiri",
+  "updatedBy" : "Muteb F Almughyiri",
+  "createdAt" : "Wednesday 18-11-2026 At 03:30:00 [Asia/Riyadh]",
+  "updatedAt" : "Wednesday 18-11-2026 At 03:30:00 [Asia/Riyadh]",
+  "module" : "UC-016",
+  "testData" : "",
+  "preConditions" : ""
+}

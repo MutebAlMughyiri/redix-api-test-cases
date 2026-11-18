@@ -1,0 +1,17 @@
+{
+  "order" : "zzo",
+  "description" : "Row_199_someone elses draft holds the partner and says whose while the callers own drafts are deleted with them",
+  "expectedResult" : "Findings row 199: someone else's draft keeps a partner from being deleted and says whose; the caller's own drafts are deleted with them",
+  "status" : "PENDING",
+  "steps" : [],
+  "priority" : "MEDIUM",
+  "reference" : "",
+  "groups" : [],
+  "createdBy" : "Muteb F Almughyiri",
+  "updatedBy" : "Muteb F Almughyiri",
+  "createdAt" : "Wednesday 18-11-2026 At 03:30:00 [Asia/Riyadh]",
+  "updatedAt" : "Wednesday 18-11-2026 At 03:30:00 [Asia/Riyadh]",
+  "module" : "UC-016",
+  "testData" : "",
+  "preConditions" : ""
+}

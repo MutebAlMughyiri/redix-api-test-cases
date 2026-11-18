@@ -1,0 +1,17 @@
+{
+  "order" : "q",
+  "description" : "The manager changes a persons email or keeps it",
+  "expectedResult" : "The manager changes a person's email, or keeps it, to a well-formed one no other account holds (AC-07.8, R9)",
+  "status" : "PENDING",
+  "steps" : [],
+  "priority" : "MEDIUM",
+  "reference" : "AC-07.8",
+  "groups" : [],
+  "createdBy" : "Muteb F Almughyiri",
+  "updatedBy" : "Muteb F Almughyiri",
+  "createdAt" : "Wednesday 18-11-2026 At 03:30:00 [Asia/Riyadh]",
+  "updatedAt" : "Wednesday 18-11-2026 At 03:30:00 [Asia/Riyadh]",
+  "module" : "UC-007",
+  "testData" : "",
+  "preConditions" : ""
+}

@@ -1,0 +1,17 @@
+{
+  "order" : "zzs",
+  "description" : "Creating a project is in the history with its name",
+  "expectedResult" : "Creating a project, adding a unit and closing a project are in the History table",
+  "status" : "PENDING",
+  "steps" : [],
+  "priority" : "MEDIUM",
+  "reference" : "",
+  "groups" : [],
+  "createdBy" : "Muteb F Almughyiri",
+  "updatedBy" : "Muteb F Almughyiri",
+  "createdAt" : "Wednesday 18-11-2026 At 03:30:00 [Asia/Riyadh]",
+  "updatedAt" : "Wednesday 18-11-2026 At 03:30:00 [Asia/Riyadh]",
+  "module" : "UC-006",
+  "testData" : "",
+  "preConditions" : ""
+}

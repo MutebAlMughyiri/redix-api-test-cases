@@ -1,0 +1,17 @@
+{
+  "order" : "w",
+  "description" : "The files report is issued with its number and time and its actual balances are the latest reconciliation",
+  "expectedResult" : "AC-53.7, AC-53.8, D9: the file's report is issued with its number and time, the next follows it, and its actual balances are the latest reconciliation",
+  "status" : "PENDING",
+  "steps" : [],
+  "priority" : "MEDIUM",
+  "reference" : "AC-53.7, AC-53.8",
+  "groups" : [],
+  "createdBy" : "Muteb F Almughyiri",
+  "updatedBy" : "Muteb F Almughyiri",
+  "createdAt" : "Wednesday 18-11-2026 At 03:30:00 [Asia/Riyadh]",
+  "updatedAt" : "Wednesday 18-11-2026 At 03:30:00 [Asia/Riyadh]",
+  "module" : "UC-071",
+  "testData" : "",
+  "preConditions" : ""
+}

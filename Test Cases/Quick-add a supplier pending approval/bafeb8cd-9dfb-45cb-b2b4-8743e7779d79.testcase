@@ -1,0 +1,17 @@
+{
+  "order" : "p",
+  "description" : "A VAT number already in the register is refused to field naming its supplier",
+  "expectedResult" : "A number already in the register is refused, naming its supplier (BR-19)",
+  "status" : "PENDING",
+  "steps" : [],
+  "priority" : "MEDIUM",
+  "reference" : "BR-19",
+  "groups" : [],
+  "createdBy" : "Muteb F Almughyiri",
+  "updatedBy" : "Muteb F Almughyiri",
+  "createdAt" : "Wednesday 18-11-2026 At 03:30:00 [Asia/Riyadh]",
+  "updatedAt" : "Wednesday 18-11-2026 At 03:30:00 [Asia/Riyadh]",
+  "module" : "UC-019",
+  "testData" : "",
+  "preConditions" : ""
+}

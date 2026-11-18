@@ -1,0 +1,17 @@
+{
+  "order" : "zs",
+  "description" : "Someone inactive in every project signs in and renews as anyone does",
+  "expectedResult" : "Someone inactive in every project signs in and renews as anyone does, and a wrong password says what it says to anyone (D3, R10)",
+  "status" : "PENDING",
+  "steps" : [],
+  "priority" : "MEDIUM",
+  "reference" : "",
+  "groups" : [],
+  "createdBy" : "Muteb F Almughyiri",
+  "updatedBy" : "Muteb F Almughyiri",
+  "createdAt" : "Wednesday 18-11-2026 At 03:30:00 [Asia/Riyadh]",
+  "updatedAt" : "Wednesday 18-11-2026 At 03:30:00 [Asia/Riyadh]",
+  "module" : "UC-007",
+  "testData" : "",
+  "preConditions" : ""
+}

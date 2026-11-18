@@ -1,0 +1,17 @@
+{
+  "order" : "zr",
+  "description" : "The general cash supplier cannot be disabled",
+  "expectedResult" : "The general cash supplier can be renamed and never disabled, by a flag set at approval, so another supplier with its name can",
+  "status" : "PENDING",
+  "steps" : [],
+  "priority" : "MEDIUM",
+  "reference" : "",
+  "groups" : [],
+  "createdBy" : "Muteb F Almughyiri",
+  "updatedBy" : "Muteb F Almughyiri",
+  "createdAt" : "Wednesday 18-11-2026 At 03:30:00 [Asia/Riyadh]",
+  "updatedAt" : "Wednesday 18-11-2026 At 03:30:00 [Asia/Riyadh]",
+  "module" : "UC-017",
+  "testData" : "",
+  "preConditions" : ""
+}

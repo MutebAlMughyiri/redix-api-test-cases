@@ -1,0 +1,17 @@
+{
+  "order" : "m",
+  "description" : "A loaded files rows are numbered by their date then the files order not the order of its tables",
+  "expectedResult" : "redix-api #128 D6: a loaded file's rows are numbered by their date, then the file's order, not the order of its tables",
+  "status" : "PENDING",
+  "steps" : [],
+  "priority" : "MEDIUM",
+  "reference" : "",
+  "groups" : [],
+  "createdBy" : "Muteb F Almughyiri",
+  "updatedBy" : "Muteb F Almughyiri",
+  "createdAt" : "Wednesday 18-11-2026 At 03:30:00 [Asia/Riyadh]",
+  "updatedAt" : "Wednesday 18-11-2026 At 03:30:00 [Asia/Riyadh]",
+  "module" : "UC-071",
+  "testData" : "",
+  "preConditions" : ""
+}

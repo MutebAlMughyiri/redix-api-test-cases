@@ -1,0 +1,17 @@
+{
+  "order" : "zt",
+  "description" : "A confirmed address is in the history by the person with the old and the new",
+  "expectedResult" : "A confirmed address is in the History table, by the person, with the old and the new (UC-005)",
+  "status" : "PENDING",
+  "steps" : [],
+  "priority" : "MEDIUM",
+  "reference" : "",
+  "groups" : [],
+  "createdBy" : "Muteb F Almughyiri",
+  "updatedBy" : "Muteb F Almughyiri",
+  "createdAt" : "Wednesday 18-11-2026 At 03:30:00 [Asia/Riyadh]",
+  "updatedAt" : "Wednesday 18-11-2026 At 03:30:00 [Asia/Riyadh]",
+  "module" : "UC-010",
+  "testData" : "",
+  "preConditions" : ""
+}

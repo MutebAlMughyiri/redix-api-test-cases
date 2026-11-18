@@ -1,0 +1,17 @@
+{
+  "order" : "u",
+  "description" : "10g_an entry with no file carries none and no other entrys file",
+  "expectedResult" : "AC-46.10g: an entry with no file carries none, and none of another entry's",
+  "status" : "PENDING",
+  "steps" : [],
+  "priority" : "MEDIUM",
+  "reference" : "AC-46",
+  "groups" : [],
+  "createdBy" : "Muteb F Almughyiri",
+  "updatedBy" : "Muteb F Almughyiri",
+  "createdAt" : "Wednesday 18-11-2026 At 03:30:00 [Asia/Riyadh]",
+  "updatedAt" : "Wednesday 18-11-2026 At 03:30:00 [Asia/Riyadh]",
+  "module" : "UC-039",
+  "testData" : "",
+  "preConditions" : ""
+}

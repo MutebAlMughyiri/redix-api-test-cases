@@ -1,0 +1,17 @@
+{
+  "order" : "zx",
+  "description" : "A built in column made required is asked when sending",
+  "expectedResult" : "FR-41, AC-41.1: a required column is asked when sending, of its own item only, and only what its kind of entry is asked",
+  "status" : "PENDING",
+  "steps" : [],
+  "priority" : "MEDIUM",
+  "reference" : "AC-41.1, FR-41",
+  "groups" : [],
+  "createdBy" : "Muteb F Almughyiri",
+  "updatedBy" : "Muteb F Almughyiri",
+  "createdAt" : "Wednesday 18-11-2026 At 03:30:00 [Asia/Riyadh]",
+  "updatedAt" : "Wednesday 18-11-2026 At 03:30:00 [Asia/Riyadh]",
+  "module" : "UC-022",
+  "testData" : "",
+  "preConditions" : ""
+}

@@ -1,0 +1,17 @@
+{
+  "order" : "q",
+  "description" : "A project has one capital item so no second one shows one partners balance",
+  "expectedResult" : "BR-31, redix-api #109: a project has one رأس المال; a second capital item, added or by a type change, answers 409 capitalItemExists, since its total would show one partner's balance to every reader",
+  "status" : "PENDING",
+  "steps" : [],
+  "priority" : "MEDIUM",
+  "reference" : "BR-31",
+  "groups" : [],
+  "createdBy" : "Muteb F Almughyiri",
+  "updatedBy" : "Muteb F Almughyiri",
+  "createdAt" : "Wednesday 18-11-2026 At 03:30:00 [Asia/Riyadh]",
+  "updatedAt" : "Wednesday 18-11-2026 At 03:30:00 [Asia/Riyadh]",
+  "module" : "UC-012",
+  "testData" : "",
+  "preConditions" : ""
+}

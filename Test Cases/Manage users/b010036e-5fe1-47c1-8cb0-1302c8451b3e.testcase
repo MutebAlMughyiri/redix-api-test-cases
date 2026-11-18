@@ -1,0 +1,17 @@
+{
+  "order" : "zzm",
+  "description" : "Row190_many enables at the same moment all answer as saved active and write one history line",
+  "expectedResult" : "Doing it twice changes nothing, at the same moment too (findings row 190): a second disable meets the unique index, a second enable finds the row already gone, and each answers as saved",
+  "status" : "PENDING",
+  "steps" : [],
+  "priority" : "MEDIUM",
+  "reference" : "",
+  "groups" : [],
+  "createdBy" : "Muteb F Almughyiri",
+  "updatedBy" : "Muteb F Almughyiri",
+  "createdAt" : "Wednesday 18-11-2026 At 03:30:00 [Asia/Riyadh]",
+  "updatedAt" : "Wednesday 18-11-2026 At 03:30:00 [Asia/Riyadh]",
+  "module" : "UC-007",
+  "testData" : "",
+  "preConditions" : ""
+}

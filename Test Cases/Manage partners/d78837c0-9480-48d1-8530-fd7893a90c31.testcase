@@ -1,0 +1,17 @@
+{
+  "order" : "zv",
+  "description" : "One partners lines and what i can be kept alone",
+  "expectedResult" : "redix-app #101: the partners' history lists partner actions and approved capital movements, one partner's or what I did, only partners the caller sees; adding and changing a partner write History rows; paging is HistoryPage, shared with the accounts' history",
+  "status" : "PENDING",
+  "steps" : [],
+  "priority" : "MEDIUM",
+  "reference" : "",
+  "groups" : [],
+  "createdBy" : "Muteb F Almughyiri",
+  "updatedBy" : "Muteb F Almughyiri",
+  "createdAt" : "Wednesday 18-11-2026 At 03:30:00 [Asia/Riyadh]",
+  "updatedAt" : "Wednesday 18-11-2026 At 03:30:00 [Asia/Riyadh]",
+  "module" : "UC-016",
+  "testData" : "",
+  "preConditions" : ""
+}

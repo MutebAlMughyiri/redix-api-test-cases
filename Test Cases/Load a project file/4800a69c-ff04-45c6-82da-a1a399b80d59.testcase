@@ -1,0 +1,17 @@
+{
+  "order" : "zn",
+  "description" : "A row add entry refuses keeps its code every refused row is listed and nothing is saved",
+  "expectedResult" : "AC-53.4, AC-53.5, G3: a row Add entry refuses keeps its code, every refused row is listed with its table and place, a file named in a row is attachmentNotInFile, and nothing is saved",
+  "status" : "PENDING",
+  "steps" : [],
+  "priority" : "MEDIUM",
+  "reference" : "AC-53.4, AC-53.5",
+  "groups" : [],
+  "createdBy" : "Muteb F Almughyiri",
+  "updatedBy" : "Muteb F Almughyiri",
+  "createdAt" : "Wednesday 18-11-2026 At 03:30:00 [Asia/Riyadh]",
+  "updatedAt" : "Wednesday 18-11-2026 At 03:30:00 [Asia/Riyadh]",
+  "module" : "UC-071",
+  "testData" : "",
+  "preConditions" : ""
+}

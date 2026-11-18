@@ -1,0 +1,17 @@
+{
+  "order" : "r",
+  "description" : "Ras al mals tables show every partner to whoever sees all capital their own to a partner and none to anyone else",
+  "expectedResult" : "BR-31, redix-api #109: رأس المال's tables show every partner to whoever sees all capital, their own to a partner, none to anyone else",
+  "status" : "PENDING",
+  "steps" : [],
+  "priority" : "MEDIUM",
+  "reference" : "BR-31",
+  "groups" : [],
+  "createdBy" : "Muteb F Almughyiri",
+  "updatedBy" : "Muteb F Almughyiri",
+  "createdAt" : "Wednesday 18-11-2026 At 03:30:00 [Asia/Riyadh]",
+  "updatedAt" : "Wednesday 18-11-2026 At 03:30:00 [Asia/Riyadh]",
+  "module" : "UC-012",
+  "testData" : "",
+  "preConditions" : ""
+}

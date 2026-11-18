@@ -1,0 +1,17 @@
+{
+  "order" : "s",
+  "description" : "Each template holds its columns in the order of the approved workbook",
+  "expectedResult" : "Each template holds its columns in the order of the approved workbook, and a purchase's prints the supplier, the account, the method and the file (redix-api #129)",
+  "status" : "PENDING",
+  "steps" : [],
+  "priority" : "MEDIUM",
+  "reference" : "",
+  "groups" : [],
+  "createdBy" : "Muteb F Almughyiri",
+  "updatedBy" : "Muteb F Almughyiri",
+  "createdAt" : "Wednesday 18-11-2026 At 03:30:00 [Asia/Riyadh]",
+  "updatedAt" : "Wednesday 18-11-2026 At 03:30:00 [Asia/Riyadh]",
+  "module" : "UC-013",
+  "testData" : "",
+  "preConditions" : ""
+}

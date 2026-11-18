@@ -1,0 +1,17 @@
+{
+  "order" : "o",
+  "description" : "The payments of A34000 contract leave its remaining and one more overruns it with an alert and is saved",
+  "expectedResult" : "AC-07.1: a real 30,000 leaves 4,000, and 5,000 more is saved with an alert and (1,000)",
+  "status" : "PENDING",
+  "steps" : [],
+  "priority" : "MEDIUM",
+  "reference" : "AC-07.1",
+  "groups" : [],
+  "createdBy" : "Muteb F Almughyiri",
+  "updatedBy" : "Muteb F Almughyiri",
+  "createdAt" : "Wednesday 18-11-2026 At 03:30:00 [Asia/Riyadh]",
+  "updatedAt" : "Wednesday 18-11-2026 At 03:30:00 [Asia/Riyadh]",
+  "module" : "UC-027",
+  "testData" : "",
+  "preConditions" : ""
+}

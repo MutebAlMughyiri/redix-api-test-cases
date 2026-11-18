@@ -1,0 +1,17 @@
+{
+  "order" : "t",
+  "description" : "The unit price and the quantity are kept with the entry as every other column is",
+  "expectedResult" : "The unit price and the quantity are kept with the entry as every other column is, and a table without one is refused its value; there is no product column (redix-api #129, R2, R5)",
+  "status" : "PENDING",
+  "steps" : [],
+  "priority" : "MEDIUM",
+  "reference" : "",
+  "groups" : [],
+  "createdBy" : "Muteb F Almughyiri",
+  "updatedBy" : "Muteb F Almughyiri",
+  "createdAt" : "Wednesday 18-11-2026 At 03:30:00 [Asia/Riyadh]",
+  "updatedAt" : "Wednesday 18-11-2026 At 03:30:00 [Asia/Riyadh]",
+  "module" : "UC-022",
+  "testData" : "",
+  "preConditions" : ""
+}

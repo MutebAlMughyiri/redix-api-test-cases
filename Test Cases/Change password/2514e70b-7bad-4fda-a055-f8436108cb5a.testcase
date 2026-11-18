@@ -1,0 +1,17 @@
+{
+  "order" : "q",
+  "description" : "Password policy tests",
+  "expectedResult" : "A new password holds the password policy (redix-api #113: at least 8 characters, with a letter and a digit, not the user name) and differs from the current one",
+  "status" : "PENDING",
+  "steps" : [],
+  "priority" : "MEDIUM",
+  "reference" : "",
+  "groups" : [],
+  "createdBy" : "Muteb F Almughyiri",
+  "updatedBy" : "Muteb F Almughyiri",
+  "createdAt" : "Wednesday 18-11-2026 At 03:30:00 [Asia/Riyadh]",
+  "updatedAt" : "Wednesday 18-11-2026 At 03:30:00 [Asia/Riyadh]",
+  "module" : "UC-003",
+  "testData" : "",
+  "preConditions" : ""
+}

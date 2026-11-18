@@ -1,0 +1,17 @@
+{
+  "order" : "zw",
+  "description" : "Entry numbers_every entry is numbered in its project by its date then when it was made and every figure stays",
+  "expectedResult" : "AC-54.8: the entries that existed before are numbered once by their date, then by when they were made; each project's counter is its last",
+  "status" : "PENDING",
+  "steps" : [],
+  "priority" : "MEDIUM",
+  "reference" : "AC-54.8",
+  "groups" : [],
+  "createdBy" : "Muteb F Almughyiri",
+  "updatedBy" : "Muteb F Almughyiri",
+  "createdAt" : "Wednesday 18-11-2026 At 03:30:00 [Asia/Riyadh]",
+  "updatedAt" : "Wednesday 18-11-2026 At 03:30:00 [Asia/Riyadh]",
+  "module" : "UC-028",
+  "testData" : "",
+  "preConditions" : ""
+}

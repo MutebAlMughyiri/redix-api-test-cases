@@ -1,0 +1,17 @@
+{
+  "order" : "r",
+  "description" : "A credit note needs no bill and is not held to what any bill counted",
+  "expectedResult" : "D4: a credit note needs no bill and is held to no bill's total",
+  "status" : "PENDING",
+  "steps" : [],
+  "priority" : "MEDIUM",
+  "reference" : "",
+  "groups" : [],
+  "createdBy" : "Muteb F Almughyiri",
+  "updatedBy" : "Muteb F Almughyiri",
+  "createdAt" : "Wednesday 18-11-2026 At 03:30:00 [Asia/Riyadh]",
+  "updatedAt" : "Wednesday 18-11-2026 At 03:30:00 [Asia/Riyadh]",
+  "module" : "UC-026",
+  "testData" : "",
+  "preConditions" : ""
+}

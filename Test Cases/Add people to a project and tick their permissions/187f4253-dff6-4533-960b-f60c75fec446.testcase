@@ -1,0 +1,17 @@
+{
+  "order" : "zo",
+  "description" : "Row190_a save refused for anything but the same row twice is still refused",
+  "expectedResult" : "A tick, an untick, a chosen partner, its unchoosing or a role name sent twice at the same moment answers as done for both, keeping one row or none (findings row 190); any other refusal, a change to a row no longer there included, is still refused",
+  "status" : "PENDING",
+  "steps" : [],
+  "priority" : "MEDIUM",
+  "reference" : "",
+  "groups" : [],
+  "createdBy" : "Muteb F Almughyiri",
+  "updatedBy" : "Muteb F Almughyiri",
+  "createdAt" : "Wednesday 18-11-2026 At 03:30:00 [Asia/Riyadh]",
+  "updatedAt" : "Wednesday 18-11-2026 At 03:30:00 [Asia/Riyadh]",
+  "module" : "UC-008",
+  "testData" : "",
+  "preConditions" : ""
+}

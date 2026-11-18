@@ -1,0 +1,17 @@
+{
+  "order" : "s",
+  "description" : "Revenue goes into every revenue item but ras al mal and a partner into nothing else",
+  "expectedResult" : "redix-api #109: revenue goes into every revenue item but رأس المال, and a capital item is offered only for a partner",
+  "status" : "PENDING",
+  "steps" : [],
+  "priority" : "MEDIUM",
+  "reference" : "",
+  "groups" : [],
+  "createdBy" : "Muteb F Almughyiri",
+  "updatedBy" : "Muteb F Almughyiri",
+  "createdAt" : "Wednesday 18-11-2026 At 03:30:00 [Asia/Riyadh]",
+  "updatedAt" : "Wednesday 18-11-2026 At 03:30:00 [Asia/Riyadh]",
+  "module" : "UC-012",
+  "testData" : "",
+  "preConditions" : ""
+}

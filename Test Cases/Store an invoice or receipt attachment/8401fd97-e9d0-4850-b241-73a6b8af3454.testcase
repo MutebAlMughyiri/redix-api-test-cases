@@ -1,0 +1,17 @@
+{
+  "order" : "q",
+  "description" : "A PDF of1 mb or more is kept",
+  "expectedResult" : "A picture is under 1 MB (NFR-06)",
+  "status" : "PENDING",
+  "steps" : [],
+  "priority" : "MEDIUM",
+  "reference" : "NFR-06",
+  "groups" : [],
+  "createdBy" : "Muteb F Almughyiri",
+  "updatedBy" : "Muteb F Almughyiri",
+  "createdAt" : "Wednesday 18-11-2026 At 03:30:00 [Asia/Riyadh]",
+  "updatedAt" : "Wednesday 18-11-2026 At 03:30:00 [Asia/Riyadh]",
+  "module" : "UC-021",
+  "testData" : "",
+  "preConditions" : ""
+}

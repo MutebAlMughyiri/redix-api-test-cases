@@ -1,0 +1,17 @@
+{
+  "order" : "s",
+  "description" : "A value is above zero with at most two decimals",
+  "expectedResult" : "A value is above zero, with at most two decimals (NFR-04)",
+  "status" : "PENDING",
+  "steps" : [],
+  "priority" : "MEDIUM",
+  "reference" : "NFR-04",
+  "groups" : [],
+  "createdBy" : "Muteb F Almughyiri",
+  "updatedBy" : "Muteb F Almughyiri",
+  "createdAt" : "Wednesday 18-11-2026 At 03:30:00 [Asia/Riyadh]",
+  "updatedAt" : "Wednesday 18-11-2026 At 03:30:00 [Asia/Riyadh]",
+  "module" : "UC-020",
+  "testData" : "",
+  "preConditions" : ""
+}

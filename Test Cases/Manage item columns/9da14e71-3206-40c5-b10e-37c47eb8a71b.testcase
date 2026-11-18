@@ -1,0 +1,17 @@
+{
+  "order" : "v",
+  "description" : "Ras al mal asks naw al haraka whose choices put in and take out",
+  "expectedResult" : "A person adds no column to a revenue item; رأس المال asks «نوع الحركة» from its template (FR-38, redix-api #129)",
+  "status" : "PENDING",
+  "steps" : [],
+  "priority" : "MEDIUM",
+  "reference" : "FR-38",
+  "groups" : [],
+  "createdBy" : "Muteb F Almughyiri",
+  "updatedBy" : "Muteb F Almughyiri",
+  "createdAt" : "Wednesday 18-11-2026 At 03:30:00 [Asia/Riyadh]",
+  "updatedAt" : "Wednesday 18-11-2026 At 03:30:00 [Asia/Riyadh]",
+  "module" : "UC-013",
+  "testData" : "",
+  "preConditions" : ""
+}

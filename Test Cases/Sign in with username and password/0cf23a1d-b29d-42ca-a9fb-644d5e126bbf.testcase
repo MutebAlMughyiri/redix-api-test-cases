@@ -1,0 +1,17 @@
+{
+  "order" : "zp",
+  "description" : "A wrong code resets nothing",
+  "expectedResult" : "«نسيت كلمة المرور؟» with a username or an email sends a six-digit code to the account's email; the code and a new password reset it (AC-02.6, D5)",
+  "status" : "PENDING",
+  "steps" : [],
+  "priority" : "MEDIUM",
+  "reference" : "AC-02.6",
+  "groups" : [],
+  "createdBy" : "Muteb F Almughyiri",
+  "updatedBy" : "Muteb F Almughyiri",
+  "createdAt" : "Wednesday 18-11-2026 At 03:30:00 [Asia/Riyadh]",
+  "updatedAt" : "Wednesday 18-11-2026 At 03:30:00 [Asia/Riyadh]",
+  "module" : "UC-002",
+  "testData" : "",
+  "preConditions" : ""
+}

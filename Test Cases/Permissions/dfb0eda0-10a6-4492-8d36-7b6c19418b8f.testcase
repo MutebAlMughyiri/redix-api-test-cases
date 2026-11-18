@@ -1,0 +1,17 @@
+{
+  "order" : "v",
+  "description" : "Whoever registers a project holds every permission of a project in it seeing all capital rather than chosen partners",
+  "expectedResult" : "redix-api #106: the two capital ticks exclude each other, choosing a partner gives SeeChosenCapital, taking it forgets the partners, and whoever registers a project sees all",
+  "status" : "PENDING",
+  "steps" : [],
+  "priority" : "MEDIUM",
+  "reference" : "",
+  "groups" : [],
+  "createdBy" : "Muteb F Almughyiri",
+  "updatedBy" : "Muteb F Almughyiri",
+  "createdAt" : "Wednesday 18-11-2026 At 03:30:00 [Asia/Riyadh]",
+  "updatedAt" : "Wednesday 18-11-2026 At 03:30:00 [Asia/Riyadh]",
+  "module" : "UC-009",
+  "testData" : "",
+  "preConditions" : ""
+}

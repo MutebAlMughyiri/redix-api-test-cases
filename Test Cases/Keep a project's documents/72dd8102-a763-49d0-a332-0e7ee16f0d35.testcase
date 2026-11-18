@@ -1,0 +1,17 @@
+{
+  "order" : "p",
+  "description" : "Findings137_a documents request may hold as much as a form so a file over25 mb is answered rather than cut off",
+  "expectedResult" : "Findings row 137: a document's request may hold as much as a form may (128 MB), not the server's 28 MB, so a file over 25 MB is answered fileTooLarge rather than cut off",
+  "status" : "PENDING",
+  "steps" : [],
+  "priority" : "MEDIUM",
+  "reference" : "",
+  "groups" : [],
+  "createdBy" : "Muteb F Almughyiri",
+  "updatedBy" : "Muteb F Almughyiri",
+  "createdAt" : "Wednesday 18-11-2026 At 03:30:00 [Asia/Riyadh]",
+  "updatedAt" : "Wednesday 18-11-2026 At 03:30:00 [Asia/Riyadh]",
+  "module" : "UC-064",
+  "testData" : "",
+  "preConditions" : ""
+}

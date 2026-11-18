@@ -1,0 +1,17 @@
+{
+  "order" : "r",
+  "description" : "An entry recorded for a project file passes the checks of add entry",
+  "expectedResult" : "D7, BR-43: an entry recorded for a project file passes every check of Add entry and keeps its decision, and tells no decider, while Add entry tells them",
+  "status" : "PENDING",
+  "steps" : [],
+  "priority" : "MEDIUM",
+  "reference" : "BR-43",
+  "groups" : [],
+  "createdBy" : "Muteb F Almughyiri",
+  "updatedBy" : "Muteb F Almughyiri",
+  "createdAt" : "Wednesday 18-11-2026 At 03:30:00 [Asia/Riyadh]",
+  "updatedAt" : "Wednesday 18-11-2026 At 03:30:00 [Asia/Riyadh]",
+  "module" : "UC-071",
+  "testData" : "",
+  "preConditions" : ""
+}

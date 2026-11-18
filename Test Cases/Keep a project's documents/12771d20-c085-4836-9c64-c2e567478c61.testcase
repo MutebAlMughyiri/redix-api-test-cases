@@ -1,0 +1,17 @@
+{
+  "order" : "n",
+  "description" : "A document is any file named by its extension while an invoice stays a picture or a PDF",
+  "expectedResult" : "A document is any file, named by its extension, while an invoice stays a picture or a PDF",
+  "status" : "PENDING",
+  "steps" : [],
+  "priority" : "MEDIUM",
+  "reference" : "",
+  "groups" : [],
+  "createdBy" : "Muteb F Almughyiri",
+  "updatedBy" : "Muteb F Almughyiri",
+  "createdAt" : "Wednesday 18-11-2026 At 03:30:00 [Asia/Riyadh]",
+  "updatedAt" : "Wednesday 18-11-2026 At 03:30:00 [Asia/Riyadh]",
+  "module" : "UC-064",
+  "testData" : "",
+  "preConditions" : ""
+}

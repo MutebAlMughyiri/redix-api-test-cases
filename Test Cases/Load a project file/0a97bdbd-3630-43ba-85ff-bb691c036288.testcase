@@ -1,0 +1,17 @@
+{
+  "order" : "v",
+  "description" : "After the load the summary its revenue its expenses and its surplus equal the files",
+  "expectedResult" : "AC-53.6: after the load the summary, its revenue, its expenses and its surplus equal the file's",
+  "status" : "PENDING",
+  "steps" : [],
+  "priority" : "MEDIUM",
+  "reference" : "AC-53.6",
+  "groups" : [],
+  "createdBy" : "Muteb F Almughyiri",
+  "updatedBy" : "Muteb F Almughyiri",
+  "createdAt" : "Wednesday 18-11-2026 At 03:30:00 [Asia/Riyadh]",
+  "updatedAt" : "Wednesday 18-11-2026 At 03:30:00 [Asia/Riyadh]",
+  "module" : "UC-071",
+  "testData" : "",
+  "preConditions" : ""
+}

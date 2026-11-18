@@ -1,0 +1,17 @@
+{
+  "order" : "zs",
+  "description" : "Report permissions_whoever reads a project sees its reports and whoever moved money or saw all capital generates them",
+  "expectedResult" : "redix-api #131 D3: the upgrade gives SeeReports to everyone in a project, and GenerateReports to whoever moved money or saw all capital",
+  "status" : "PENDING",
+  "steps" : [],
+  "priority" : "MEDIUM",
+  "reference" : "",
+  "groups" : [],
+  "createdBy" : "Muteb F Almughyiri",
+  "updatedBy" : "Muteb F Almughyiri",
+  "createdAt" : "Wednesday 18-11-2026 At 03:30:00 [Asia/Riyadh]",
+  "updatedAt" : "Wednesday 18-11-2026 At 03:30:00 [Asia/Riyadh]",
+  "module" : "UC-009",
+  "testData" : "",
+  "preConditions" : ""
+}

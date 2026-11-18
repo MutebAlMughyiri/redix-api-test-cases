@@ -1,0 +1,17 @@
+{
+  "order" : "p",
+  "description" : "An item finance added reaches the field at the next sync",
+  "expectedResult" : "AC-05.1: an item Finance added reaches the field at the next sync, in its offered lists and in Add entry's table list (entry-tables), with no online visit to Add entry first",
+  "status" : "PENDING",
+  "steps" : [],
+  "priority" : "MEDIUM",
+  "reference" : "AC-05.1",
+  "groups" : [],
+  "createdBy" : "Muteb F Almughyiri",
+  "updatedBy" : "Muteb F Almughyiri",
+  "createdAt" : "Wednesday 18-11-2026 At 03:30:00 [Asia/Riyadh]",
+  "updatedAt" : "Wednesday 18-11-2026 At 03:30:00 [Asia/Riyadh]",
+  "module" : "UC-030",
+  "testData" : "",
+  "preConditions" : ""
+}

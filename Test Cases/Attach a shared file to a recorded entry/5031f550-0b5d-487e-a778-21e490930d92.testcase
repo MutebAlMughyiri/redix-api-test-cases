@@ -1,0 +1,17 @@
+{
+  "order" : "s",
+  "description" : "10e_r5_an entry with a file is listed and keeps both files after the attach",
+  "expectedResult" : "AC-46.10e, R5, D1: an entry with a file is listed, and keeps both after the attach",
+  "status" : "PENDING",
+  "steps" : [],
+  "priority" : "MEDIUM",
+  "reference" : "AC-46",
+  "groups" : [],
+  "createdBy" : "Muteb F Almughyiri",
+  "updatedBy" : "Muteb F Almughyiri",
+  "createdAt" : "Wednesday 18-11-2026 At 03:30:00 [Asia/Riyadh]",
+  "updatedAt" : "Wednesday 18-11-2026 At 03:30:00 [Asia/Riyadh]",
+  "module" : "UC-039",
+  "testData" : "",
+  "preConditions" : ""
+}

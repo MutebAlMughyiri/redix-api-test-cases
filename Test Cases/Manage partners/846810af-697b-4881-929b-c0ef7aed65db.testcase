@@ -1,0 +1,17 @@
+{
+  "order" : "zp",
+  "description" : "Partners declared with a new project become tables of its ras al mal in their order once approved",
+  "expectedResult" : "redix-api #109: partners may be declared by name when a project is created or registered (partners in POST /projects and POST /projects/register), an unacceptable name answering invalidName; once the project is approved they become tables of its first capital item, رأس المال, in the order typed",
+  "status" : "PENDING",
+  "steps" : [],
+  "priority" : "MEDIUM",
+  "reference" : "",
+  "groups" : [],
+  "createdBy" : "Muteb F Almughyiri",
+  "updatedBy" : "Muteb F Almughyiri",
+  "createdAt" : "Wednesday 18-11-2026 At 03:30:00 [Asia/Riyadh]",
+  "updatedAt" : "Wednesday 18-11-2026 At 03:30:00 [Asia/Riyadh]",
+  "module" : "UC-016",
+  "testData" : "",
+  "preConditions" : ""
+}

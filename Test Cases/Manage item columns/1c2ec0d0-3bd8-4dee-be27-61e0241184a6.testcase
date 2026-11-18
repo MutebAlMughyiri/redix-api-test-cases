@@ -1,0 +1,17 @@
+{
+  "order" : "r",
+  "description" : "An item of both types holds the purchase columns with what only a contractor payment has after what it follows",
+  "expectedResult" : "An item of both types holds the purchase columns, with what only a contractor payment has after the column it follows",
+  "status" : "PENDING",
+  "steps" : [],
+  "priority" : "MEDIUM",
+  "reference" : "",
+  "groups" : [],
+  "createdBy" : "Muteb F Almughyiri",
+  "updatedBy" : "Muteb F Almughyiri",
+  "createdAt" : "Wednesday 18-11-2026 At 03:30:00 [Asia/Riyadh]",
+  "updatedAt" : "Wednesday 18-11-2026 At 03:30:00 [Asia/Riyadh]",
+  "module" : "UC-013",
+  "testData" : "",
+  "preConditions" : ""
+}

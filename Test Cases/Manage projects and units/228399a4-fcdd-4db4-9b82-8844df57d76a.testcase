@@ -1,0 +1,17 @@
+{
+  "order" : "z",
+  "description" : "A finished project is read only and stays listed",
+  "expectedResult" : "A finished project is read-only and stays listed, so its reports stay available (AC-04.1)",
+  "status" : "PENDING",
+  "steps" : [],
+  "priority" : "MEDIUM",
+  "reference" : "AC-04.1",
+  "groups" : [],
+  "createdBy" : "Muteb F Almughyiri",
+  "updatedBy" : "Muteb F Almughyiri",
+  "createdAt" : "Wednesday 18-11-2026 At 03:30:00 [Asia/Riyadh]",
+  "updatedAt" : "Wednesday 18-11-2026 At 03:30:00 [Asia/Riyadh]",
+  "module" : "UC-006",
+  "testData" : "",
+  "preConditions" : ""
+}

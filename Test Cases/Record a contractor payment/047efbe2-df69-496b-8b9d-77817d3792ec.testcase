@@ -1,0 +1,17 @@
+{
+  "order" : "zv",
+  "description" : "Editing a waiting payment counts it once keeps the others and answers ok",
+  "expectedResult" : "Editing a waiting payment counts it once, keeps the contract's other waiting payments, and answers 200",
+  "status" : "PENDING",
+  "steps" : [],
+  "priority" : "MEDIUM",
+  "reference" : "",
+  "groups" : [],
+  "createdBy" : "Muteb F Almughyiri",
+  "updatedBy" : "Muteb F Almughyiri",
+  "createdAt" : "Wednesday 18-11-2026 At 03:30:00 [Asia/Riyadh]",
+  "updatedAt" : "Wednesday 18-11-2026 At 03:30:00 [Asia/Riyadh]",
+  "module" : "UC-027",
+  "testData" : "",
+  "preConditions" : ""
+}

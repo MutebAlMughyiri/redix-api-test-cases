@@ -1,0 +1,17 @@
+{
+  "order" : "zo",
+  "description" : "An option the files lists do not hold or a choice the tables list does not have is an unknown choice naming its column",
+  "expectedResult" : "G4: an option the file's lists do not hold, or a choice the table's list does not have, is unknownChoice, naming the value and the column",
+  "status" : "PENDING",
+  "steps" : [],
+  "priority" : "MEDIUM",
+  "reference" : "",
+  "groups" : [],
+  "createdBy" : "Muteb F Almughyiri",
+  "updatedBy" : "Muteb F Almughyiri",
+  "createdAt" : "Wednesday 18-11-2026 At 03:30:00 [Asia/Riyadh]",
+  "updatedAt" : "Wednesday 18-11-2026 At 03:30:00 [Asia/Riyadh]",
+  "module" : "UC-071",
+  "testData" : "",
+  "preConditions" : ""
+}

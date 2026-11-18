@@ -1,0 +1,17 @@
+{
+  "order" : "r",
+  "description" : "10a_r10_a file goes on an approved entry its figures stay and a history line is written",
+  "expectedResult" : "AC-46.10a, R10, D15: a file goes on an approved entry, its figures stay, and a History line is written",
+  "status" : "PENDING",
+  "steps" : [],
+  "priority" : "MEDIUM",
+  "reference" : "AC-46",
+  "groups" : [],
+  "createdBy" : "Muteb F Almughyiri",
+  "updatedBy" : "Muteb F Almughyiri",
+  "createdAt" : "Wednesday 18-11-2026 At 03:30:00 [Asia/Riyadh]",
+  "updatedAt" : "Wednesday 18-11-2026 At 03:30:00 [Asia/Riyadh]",
+  "module" : "UC-039",
+  "testData" : "",
+  "preConditions" : ""
+}

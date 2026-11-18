@@ -1,0 +1,17 @@
+{
+  "order" : "y",
+  "description" : "An amendment changes the terms and keeps the contractor",
+  "expectedResult" : "An amendment changes the terms and keeps the contractor",
+  "status" : "PENDING",
+  "steps" : [],
+  "priority" : "MEDIUM",
+  "reference" : "",
+  "groups" : [],
+  "createdBy" : "Muteb F Almughyiri",
+  "updatedBy" : "Muteb F Almughyiri",
+  "createdAt" : "Wednesday 18-11-2026 At 03:30:00 [Asia/Riyadh]",
+  "updatedAt" : "Wednesday 18-11-2026 At 03:30:00 [Asia/Riyadh]",
+  "module" : "UC-020",
+  "testData" : "",
+  "preConditions" : ""
+}

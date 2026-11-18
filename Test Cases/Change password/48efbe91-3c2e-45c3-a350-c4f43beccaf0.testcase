@@ -1,0 +1,17 @@
+{
+  "order" : "s",
+  "description" : "A password change is in the history with the values before and after but never the password hash",
+  "expectedResult" : "A password change is in the History table, never the password's hash (UC-005)",
+  "status" : "PENDING",
+  "steps" : [],
+  "priority" : "MEDIUM",
+  "reference" : "",
+  "groups" : [],
+  "createdBy" : "Muteb F Almughyiri",
+  "updatedBy" : "Muteb F Almughyiri",
+  "createdAt" : "Wednesday 18-11-2026 At 03:30:00 [Asia/Riyadh]",
+  "updatedAt" : "Wednesday 18-11-2026 At 03:30:00 [Asia/Riyadh]",
+  "module" : "UC-003",
+  "testData" : "",
+  "preConditions" : ""
+}

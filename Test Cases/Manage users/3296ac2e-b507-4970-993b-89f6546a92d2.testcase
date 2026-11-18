@@ -1,0 +1,17 @@
+{
+  "order" : "z",
+  "description" : "A suppliers mobile is digits on add and on edit",
+  "expectedResult" : "A mobile is ASCII digits with a leading + at most, or empty, for a user or a supplier, so the browser front end cannot store ????; one owner",
+  "status" : "PENDING",
+  "steps" : [],
+  "priority" : "MEDIUM",
+  "reference" : "",
+  "groups" : [],
+  "createdBy" : "Muteb F Almughyiri",
+  "updatedBy" : "Muteb F Almughyiri",
+  "createdAt" : "Wednesday 18-11-2026 At 03:30:00 [Asia/Riyadh]",
+  "updatedAt" : "Wednesday 18-11-2026 At 03:30:00 [Asia/Riyadh]",
+  "module" : "UC-007",
+  "testData" : "",
+  "preConditions" : ""
+}

@@ -1,0 +1,17 @@
+{
+  "order" : "o",
+  "description" : "Every project starts with ras al mal a category of its own first among the revenue whose sheet gives each partners share",
+  "expectedResult" : "redix-api #109: every project starts with رأس المال, a category of its own first among the revenue, its item calculating each partner's share",
+  "status" : "PENDING",
+  "steps" : [],
+  "priority" : "MEDIUM",
+  "reference" : "",
+  "groups" : [],
+  "createdBy" : "Muteb F Almughyiri",
+  "updatedBy" : "Muteb F Almughyiri",
+  "createdAt" : "Wednesday 18-11-2026 At 03:30:00 [Asia/Riyadh]",
+  "updatedAt" : "Wednesday 18-11-2026 At 03:30:00 [Asia/Riyadh]",
+  "module" : "UC-012",
+  "testData" : "",
+  "preConditions" : ""
+}

@@ -1,0 +1,17 @@
+{
+  "order" : "q",
+  "description" : "An empty form names the username first and the email only after the other fields_as the form orders them",
+  "expectedResult" : "The email is checked after the other fields, in the order the form shows them, so an empty form names the username first",
+  "status" : "PENDING",
+  "steps" : [],
+  "priority" : "MEDIUM",
+  "reference" : "",
+  "groups" : [],
+  "createdBy" : "Muteb F Almughyiri",
+  "updatedBy" : "Muteb F Almughyiri",
+  "createdAt" : "Wednesday 18-11-2026 At 03:30:00 [Asia/Riyadh]",
+  "updatedAt" : "Wednesday 18-11-2026 At 03:30:00 [Asia/Riyadh]",
+  "module" : "UC-008",
+  "testData" : "",
+  "preConditions" : ""
+}

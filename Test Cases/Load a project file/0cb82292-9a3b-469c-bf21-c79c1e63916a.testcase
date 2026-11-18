@@ -1,0 +1,17 @@
+{
+  "order" : "u",
+  "description" : "A file loads its missing structure and every row approved in the managers name telling no decider",
+  "expectedResult" : "AC-53.1, D5, D6, D7, D13: a file loads its missing categories, items, tables, contracts, partners, suppliers and payment methods, and every row is recorded and approved in the manager's name, telling no decider",
+  "status" : "PENDING",
+  "steps" : [],
+  "priority" : "MEDIUM",
+  "reference" : "AC-53.1",
+  "groups" : [],
+  "createdBy" : "Muteb F Almughyiri",
+  "updatedBy" : "Muteb F Almughyiri",
+  "createdAt" : "Wednesday 18-11-2026 At 03:30:00 [Asia/Riyadh]",
+  "updatedAt" : "Wednesday 18-11-2026 At 03:30:00 [Asia/Riyadh]",
+  "module" : "UC-071",
+  "testData" : "",
+  "preConditions" : ""
+}

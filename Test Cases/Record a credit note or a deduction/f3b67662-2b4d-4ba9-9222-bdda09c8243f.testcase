@@ -1,0 +1,17 @@
+{
+  "order" : "p",
+  "description" : "A choice not of the list is refused",
+  "expectedResult" : "The sign of the choice taken decides the total's direction; no choice counts it as typed; a choice not of the list is refused (redix-api #129)",
+  "status" : "PENDING",
+  "steps" : [],
+  "priority" : "MEDIUM",
+  "reference" : "",
+  "groups" : [],
+  "createdBy" : "Muteb F Almughyiri",
+  "updatedBy" : "Muteb F Almughyiri",
+  "createdAt" : "Wednesday 18-11-2026 At 03:30:00 [Asia/Riyadh]",
+  "updatedAt" : "Wednesday 18-11-2026 At 03:30:00 [Asia/Riyadh]",
+  "module" : "UC-026",
+  "testData" : "",
+  "preConditions" : ""
+}
