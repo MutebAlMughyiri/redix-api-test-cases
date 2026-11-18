@@ -2,7 +2,7 @@
   "order" : "z",
   "description" : "Keeping a file is in the history",
   "expectedResult" : "Keeping a file, and linking it to a contract, is in the History table with which file",
-  "status" : "PENDING",
+  "status" : "DISABLED",
   "steps" : [],
   "priority" : "MEDIUM",
   "reference" : "",

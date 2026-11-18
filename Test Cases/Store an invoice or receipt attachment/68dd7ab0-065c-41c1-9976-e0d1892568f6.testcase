@@ -2,7 +2,7 @@
   "order" : "zm",
   "description" : "Linking a document to a contract is in the history with which one",
   "expectedResult" : "Keeping a file, and linking it to a contract, is in the History table with which file",
-  "status" : "PENDING",
+  "status" : "DISABLED",
   "steps" : [],
   "priority" : "MEDIUM",
   "reference" : "",
