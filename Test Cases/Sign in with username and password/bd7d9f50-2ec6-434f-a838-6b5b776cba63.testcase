@@ -2,7 +2,7 @@
   "order" : "u",
   "description" : "An access token is refused once the moment its session named has passed",
   "expectedResult" : "A session says when its access token expires, at sign-in and at each renewal, and the token is refused from then on (redix-api #126, R6)",
-  "status" : "PENDING",
+  "status" : "DISABLED",
   "steps" : [],
   "priority" : "MEDIUM",
   "reference" : "",

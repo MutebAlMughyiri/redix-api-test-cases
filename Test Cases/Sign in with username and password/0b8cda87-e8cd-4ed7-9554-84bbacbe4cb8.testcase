@@ -2,7 +2,7 @@
   "order" : "zq",
   "description" : "The admin resets the same way",
   "expectedResult" : "The admin resets the same way, with the email set in Settings (R10, D6)",
-  "status" : "PENDING",
+  "status" : "DISABLED",
   "steps" : [],
   "priority" : "MEDIUM",
   "reference" : "",

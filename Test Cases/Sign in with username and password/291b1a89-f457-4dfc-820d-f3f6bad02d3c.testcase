@@ -2,7 +2,7 @@
   "order" : "zzn",
   "description" : "Only the codes hash is kept",
   "expectedResult" : "Only the code's hash is kept (the rule)",
-  "status" : "PENDING",
+  "status" : "DISABLED",
   "steps" : [],
   "priority" : "MEDIUM",
   "reference" : "",

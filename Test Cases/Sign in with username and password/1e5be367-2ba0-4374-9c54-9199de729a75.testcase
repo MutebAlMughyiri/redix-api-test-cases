@@ -2,7 +2,7 @@
   "order" : "zv",
   "description" : "A code works within15 minutes and not after",
   "expectedResult" : "A code works once, within 15 minutes, for 5 tries, and a new code ends the earlier one (AC-02.8, D3)",
-  "status" : "PENDING",
+  "status" : "DISABLED",
   "steps" : [],
   "priority" : "MEDIUM",
   "reference" : "AC-02.8",

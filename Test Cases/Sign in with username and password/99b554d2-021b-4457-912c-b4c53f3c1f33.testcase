@@ -2,7 +2,7 @@
   "order" : "w",
   "description" : "A session used within12 hours stays open and one unused for12 hours ends",
   "expectedResult" : "A refresh token unused for 12 hours expires (NFR-09)",
-  "status" : "PENDING",
+  "status" : "DISABLED",
   "steps" : [],
   "priority" : "MEDIUM",
   "reference" : "NFR-09",

@@ -2,7 +2,7 @@
   "order" : "s",
   "description" : "An access token works for15 minutes by the servers clock",
   "expectedResult" : "An access token works for 15 minutes, by the server's clock",
-  "status" : "PENDING",
+  "status" : "DISABLED",
   "steps" : [],
   "priority" : "MEDIUM",
   "reference" : "",

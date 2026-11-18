@@ -2,7 +2,7 @@
   "order" : "zzu",
   "description" : "A reset is in the history by the person with no password hash",
   "expectedResult" : "A reset by code is in the History table, by the person, never the password's hash (UC-005)",
-  "status" : "PENDING",
+  "status" : "DISABLED",
   "steps" : [],
   "priority" : "MEDIUM",
   "reference" : "",

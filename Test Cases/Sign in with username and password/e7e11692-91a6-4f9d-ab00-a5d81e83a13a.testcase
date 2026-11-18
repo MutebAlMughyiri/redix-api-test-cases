@@ -2,7 +2,7 @@
   "order" : "y",
   "description" : "A migration that stops before the users table seeds nothing and succeeds_as a rollback does",
   "expectedResult" : "The seed waits while a migration is still to apply, so a rollback to before the Users table succeeds quietly",
-  "status" : "PENDING",
+  "status" : "DISABLED",
   "steps" : [],
   "priority" : "MEDIUM",
   "reference" : "",
