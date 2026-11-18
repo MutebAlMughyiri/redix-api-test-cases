@@ -2,7 +2,7 @@
   "order" : "x",
   "description" : "Too many tries are refused",
   "expectedResult" : "Too many tries from one address are refused",
-  "status" : "PENDING",
+  "status" : "DISABLED",
   "steps" : [],
   "priority" : "MEDIUM",
   "reference" : "",

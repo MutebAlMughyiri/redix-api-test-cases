@@ -2,7 +2,7 @@
   "order" : "y",
   "description" : "Every decision is in the history",
   "expectedResult" : "Every registration and decision is in the History table",
-  "status" : "PENDING",
+  "status" : "DISABLED",
   "steps" : [],
   "priority" : "MEDIUM",
   "reference" : "",

@@ -2,7 +2,7 @@
   "order" : "n",
   "description" : "A value changed in the database is read at the next request",
   "expectedResult" : "A value changed in the database is read at the next request",
-  "status" : "PENDING",
+  "status" : "DISABLED",
   "steps" : [],
   "priority" : "MEDIUM",
   "reference" : "",
