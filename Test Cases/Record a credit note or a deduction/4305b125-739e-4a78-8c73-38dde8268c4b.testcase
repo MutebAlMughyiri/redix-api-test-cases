@@ -2,7 +2,7 @@
   "order" : "q",
   "description" : "Entry type and movement type lists_every entry keeps its figure and takes the choice its sign says",
   "expectedResult" : "Every purchase kept negative before the list became «مرتجع», every other «شراء», each figure as it was (redix-api #129, R6)",
-  "status" : "PENDING",
+  "status" : "DISABLED",
   "steps" : [],
   "priority" : "MEDIUM",
   "reference" : "",
