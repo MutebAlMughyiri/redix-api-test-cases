@@ -2,7 +2,7 @@
   "order" : "zzz",
   "description" : "A draft is created in the history rather than submitted",
   "expectedResult" : "FR-21: who recorded it and its total are in the History table",
-  "status" : "DISABLED",
+  "status" : "PENDING",
   "steps" : [],
   "priority" : "MEDIUM",
   "reference" : "FR-21",

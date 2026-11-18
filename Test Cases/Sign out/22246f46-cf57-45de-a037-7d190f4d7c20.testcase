@@ -2,7 +2,7 @@
   "order" : "n",
   "description" : "A sign out is in the history",
   "expectedResult" : "A sign-out is in the History table",
-  "status" : "DISABLED",
+  "status" : "PENDING",
   "steps" : [],
   "priority" : "MEDIUM",
   "reference" : "",

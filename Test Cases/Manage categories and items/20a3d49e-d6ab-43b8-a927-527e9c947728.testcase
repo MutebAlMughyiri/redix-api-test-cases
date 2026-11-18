@@ -2,7 +2,7 @@
   "order" : "zx",
   "description" : "A changed type is in the history old and new",
   "expectedResult" : "An item's type changes while no entry names it, in the History table, old and new",
-  "status" : "DISABLED",
+  "status" : "PENDING",
   "steps" : [],
   "priority" : "MEDIUM",
   "reference" : "",

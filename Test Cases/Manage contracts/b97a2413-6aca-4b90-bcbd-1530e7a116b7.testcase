@@ -2,7 +2,7 @@
   "order" : "zs",
   "description" : "Every change of a contract is in the history",
   "expectedResult" : "Every change of a contract is in the History table",
-  "status" : "DISABLED",
+  "status" : "PENDING",
   "steps" : [],
   "priority" : "MEDIUM",
   "reference" : "",

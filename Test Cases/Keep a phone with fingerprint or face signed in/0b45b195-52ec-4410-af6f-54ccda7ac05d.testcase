@@ -2,7 +2,7 @@
   "order" : "u",
   "description" : "Turning biometrics on and off is in history",
   "expectedResult" : "Turning it on and off is in the History table",
-  "status" : "DISABLED",
+  "status" : "PENDING",
   "steps" : [],
   "priority" : "MEDIUM",
   "reference" : "",

@@ -2,7 +2,7 @@
   "order" : "zx",
   "description" : "Making someone inactive and active again each write a history line by the manager",
   "expectedResult" : "Making inactive and active again each write a History line (R9, AC-21.1)",
-  "status" : "DISABLED",
+  "status" : "PENDING",
   "steps" : [],
   "priority" : "MEDIUM",
   "reference" : "AC-21.1",

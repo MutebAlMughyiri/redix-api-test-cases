@@ -2,7 +2,7 @@
   "order" : "zm",
   "description" : "Sending is in the history and a refusal is not",
   "expectedResult" : "FR-21: sending is in the History table",
-  "status" : "DISABLED",
+  "status" : "PENDING",
   "steps" : [],
   "priority" : "MEDIUM",
   "reference" : "FR-21",

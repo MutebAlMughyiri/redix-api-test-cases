@@ -2,7 +2,7 @@
   "order" : "zzu",
   "description" : "Every change is in the history with no password hash",
   "expectedResult" : "Every change is in the History table, never the password's hash",
-  "status" : "DISABLED",
+  "status" : "PENDING",
   "steps" : [],
   "priority" : "MEDIUM",
   "reference" : "",

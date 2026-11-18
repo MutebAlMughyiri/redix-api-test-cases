@@ -2,7 +2,7 @@
   "order" : "zt",
   "description" : "A payment is in the history",
   "expectedResult" : "What was typed; a disabled contract; a finished project; the History table; an id sent twice",
-  "status" : "DISABLED",
+  "status" : "PENDING",
   "steps" : [],
   "priority" : "MEDIUM",
   "reference" : "",

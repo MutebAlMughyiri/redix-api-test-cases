@@ -2,7 +2,7 @@
   "order" : "zzu",
   "description" : "Closing a project is in the history with its status old and new",
   "expectedResult" : "Creating a project, adding a unit and closing a project are in the History table",
-  "status" : "DISABLED",
+  "status" : "PENDING",
   "steps" : [],
   "priority" : "MEDIUM",
   "reference" : "",

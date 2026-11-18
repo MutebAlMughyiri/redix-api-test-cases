@@ -2,7 +2,7 @@
   "order" : "zzs",
   "description" : "Creating a project is in the history with its name",
   "expectedResult" : "Creating a project, adding a unit and closing a project are in the History table",
-  "status" : "DISABLED",
+  "status" : "PENDING",
   "steps" : [],
   "priority" : "MEDIUM",
   "reference" : "",

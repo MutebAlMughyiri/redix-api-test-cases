@@ -2,7 +2,7 @@
   "order" : "s",
   "description" : "A password change is in the history with the values before and after but never the password hash",
   "expectedResult" : "A password change is in the History table, never the password's hash (UC-005)",
-  "status" : "DISABLED",
+  "status" : "PENDING",
   "steps" : [],
   "priority" : "MEDIUM",
   "reference" : "",

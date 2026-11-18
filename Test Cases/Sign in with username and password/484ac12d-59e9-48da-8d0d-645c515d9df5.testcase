@@ -2,7 +2,7 @@
   "order" : "z",
   "description" : "A sign in is in the history with the user and the time",
   "expectedResult" : "A sign-in is in the History table with the user and the time (UC-005)",
-  "status" : "DISABLED",
+  "status" : "PENDING",
   "steps" : [],
   "priority" : "MEDIUM",
   "reference" : "",

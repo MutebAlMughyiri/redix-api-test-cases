@@ -2,7 +2,7 @@
   "order" : "zw",
   "description" : "Every permission change is in the history",
   "expectedResult" : "Every permission ticked or unticked is in the History table",
-  "status" : "DISABLED",
+  "status" : "PENDING",
   "steps" : [],
   "priority" : "MEDIUM",
   "reference" : "",
