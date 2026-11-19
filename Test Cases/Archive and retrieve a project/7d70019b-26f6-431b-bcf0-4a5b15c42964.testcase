@@ -1,0 +1,17 @@
+{
+  "order" : "d",
+  "description" : "A retrieve keeps the history the issued reports and the members",
+  "expectedResult" : "AC-73.4: History, the issued periodic reports, the entry counter and the people in the project stay as they are, a person added after the archive included",
+  "status" : "PENDING",
+  "steps" : [],
+  "priority" : "MEDIUM",
+  "reference" : "AC-73.4",
+  "groups" : [],
+  "createdBy" : "Muteb F Almughyiri",
+  "updatedBy" : "Muteb F Almughyiri",
+  "createdAt" : "Thursday 19-11-2026 At 01:40:00 [Asia/Riyadh]",
+  "updatedAt" : "Thursday 19-11-2026 At 01:40:00 [Asia/Riyadh]",
+  "module" : "UC-073",
+  "testData" : "",
+  "preConditions" : ""
+}

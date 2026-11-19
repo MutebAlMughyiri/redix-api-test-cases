@@ -1,0 +1,17 @@
+{
+  "order" : "h",
+  "description" : "An archive of an earlier release is brought up and retrieves",
+  "expectedResult" : "AC-73.6: an archive taken at an earlier release is brought up by the server's own migrations and retrieves",
+  "status" : "PENDING",
+  "steps" : [],
+  "priority" : "MEDIUM",
+  "reference" : "AC-73.6",
+  "groups" : [],
+  "createdBy" : "Muteb F Almughyiri",
+  "updatedBy" : "Muteb F Almughyiri",
+  "createdAt" : "Thursday 19-11-2026 At 01:40:00 [Asia/Riyadh]",
+  "updatedAt" : "Thursday 19-11-2026 At 01:40:00 [Asia/Riyadh]",
+  "module" : "UC-073",
+  "testData" : "",
+  "preConditions" : ""
+}

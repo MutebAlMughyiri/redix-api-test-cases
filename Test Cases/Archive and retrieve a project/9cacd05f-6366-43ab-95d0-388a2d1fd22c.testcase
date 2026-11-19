@@ -1,0 +1,17 @@
+{
+  "order" : "i",
+  "description" : "Without ManageProjectFiles neither the archive nor the retrieve answers",
+  "expectedResult" : "AC-73.8: someone in the project without «ملفات المشروع» gets 403 from the archive and from the retrieve",
+  "status" : "PENDING",
+  "steps" : [],
+  "priority" : "MEDIUM",
+  "reference" : "AC-73.8",
+  "groups" : [],
+  "createdBy" : "Muteb F Almughyiri",
+  "updatedBy" : "Muteb F Almughyiri",
+  "createdAt" : "Thursday 19-11-2026 At 01:40:00 [Asia/Riyadh]",
+  "updatedAt" : "Thursday 19-11-2026 At 01:40:00 [Asia/Riyadh]",
+  "module" : "UC-073",
+  "testData" : "",
+  "preConditions" : ""
+}

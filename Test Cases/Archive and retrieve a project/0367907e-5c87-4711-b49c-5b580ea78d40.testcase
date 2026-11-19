@@ -1,0 +1,17 @@
+{
+  "order" : "g",
+  "description" : "A finished project is archived but never retrieved",
+  "expectedResult" : "AC-73.5, R17: a finished project hands over its archive, and a retrieve answers 409 projectFinished",
+  "status" : "PENDING",
+  "steps" : [],
+  "priority" : "MEDIUM",
+  "reference" : "AC-73.5",
+  "groups" : [],
+  "createdBy" : "Muteb F Almughyiri",
+  "updatedBy" : "Muteb F Almughyiri",
+  "createdAt" : "Thursday 19-11-2026 At 01:40:00 [Asia/Riyadh]",
+  "updatedAt" : "Thursday 19-11-2026 At 01:40:00 [Asia/Riyadh]",
+  "module" : "UC-073",
+  "testData" : "",
+  "preConditions" : ""
+}
