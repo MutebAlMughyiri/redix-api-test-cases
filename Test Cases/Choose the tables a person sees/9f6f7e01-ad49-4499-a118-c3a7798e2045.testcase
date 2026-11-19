@@ -1,0 +1,17 @@
+{
+  "order" : "h",
+  "description" : "A contractors payment is its contracts to see",
+  "expectedResult" : "redix-api #106 G1: unticked from a contract, its payments leave the person's list and its report answers 404; ticked again, both are back",
+  "status" : "PENDING",
+  "steps" : [],
+  "priority" : "MEDIUM",
+  "reference" : "G1",
+  "groups" : [],
+  "createdBy" : "Muteb F Almughyiri",
+  "updatedBy" : "Muteb F Almughyiri",
+  "createdAt" : "Thursday 19-11-2026 At 04:10:00 [Asia/Riyadh]",
+  "updatedAt" : "Thursday 19-11-2026 At 04:10:00 [Asia/Riyadh]",
+  "module" : "UC-009",
+  "testData" : "",
+  "preConditions" : ""
+}

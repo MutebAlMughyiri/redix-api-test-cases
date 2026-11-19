@@ -1,0 +1,17 @@
+{
+  "order" : "b",
+  "description" : "An approved request is applied as ticking is and the person is told",
+  "expectedResult" : "redix-api #112 R4, R6, R11: approving gives and takes what was asked, as ticking does, and the person is told it was approved",
+  "status" : "PENDING",
+  "steps" : [],
+  "priority" : "MEDIUM",
+  "reference" : "R4",
+  "groups" : [],
+  "createdBy" : "Muteb F Almughyiri",
+  "updatedBy" : "Muteb F Almughyiri",
+  "createdAt" : "Thursday 19-11-2026 At 04:10:00 [Asia/Riyadh]",
+  "updatedAt" : "Thursday 19-11-2026 At 04:10:00 [Asia/Riyadh]",
+  "module" : "UC-009",
+  "testData" : "",
+  "preConditions" : ""
+}

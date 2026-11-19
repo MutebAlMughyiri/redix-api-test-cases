@@ -1,0 +1,17 @@
+{
+  "order" : "d",
+  "description" : "A table is offered until unticked and a tick brings it back",
+  "expectedResult" : "redix-api #106 R8, R10, D1: an item's tables list a table until it is unticked, recording into it then answers 400 unknownTable, and ticking it again brings it and its entries back",
+  "status" : "PENDING",
+  "steps" : [],
+  "priority" : "MEDIUM",
+  "reference" : "R10",
+  "groups" : [],
+  "createdBy" : "Muteb F Almughyiri",
+  "updatedBy" : "Muteb F Almughyiri",
+  "createdAt" : "Thursday 19-11-2026 At 04:10:00 [Asia/Riyadh]",
+  "updatedAt" : "Thursday 19-11-2026 At 04:10:00 [Asia/Riyadh]",
+  "module" : "UC-009",
+  "testData" : "",
+  "preConditions" : ""
+}

@@ -1,0 +1,17 @@
+{
+  "order" : "g",
+  "description" : "Only whoever manages the users sees the requests and decides them",
+  "expectedResult" : "redix-api #112 R3: without ManageUsers the list of requests, approving and rejecting answer 403",
+  "status" : "PENDING",
+  "steps" : [],
+  "priority" : "MEDIUM",
+  "reference" : "R3",
+  "groups" : [],
+  "createdBy" : "Muteb F Almughyiri",
+  "updatedBy" : "Muteb F Almughyiri",
+  "createdAt" : "Thursday 19-11-2026 At 04:10:00 [Asia/Riyadh]",
+  "updatedAt" : "Thursday 19-11-2026 At 04:10:00 [Asia/Riyadh]",
+  "module" : "UC-009",
+  "testData" : "",
+  "preConditions" : ""
+}

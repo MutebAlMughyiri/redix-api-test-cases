@@ -1,0 +1,17 @@
+{
+  "order" : "a",
+  "description" : "Asking changes nothing until a manager decides and the managers are told",
+  "expectedResult" : "redix-api #112 R1, R2, R5, R6, R9: the person asks from their own session for permissions given and taken with a reason; nothing they hold changes, whoever manages the users is told, and the request waits on their list with the person's name",
+  "status" : "PENDING",
+  "steps" : [],
+  "priority" : "MEDIUM",
+  "reference" : "R1",
+  "groups" : [],
+  "createdBy" : "Muteb F Almughyiri",
+  "updatedBy" : "Muteb F Almughyiri",
+  "createdAt" : "Thursday 19-11-2026 At 04:10:00 [Asia/Riyadh]",
+  "updatedAt" : "Thursday 19-11-2026 At 04:10:00 [Asia/Riyadh]",
+  "module" : "UC-009",
+  "testData" : "",
+  "preConditions" : ""
+}

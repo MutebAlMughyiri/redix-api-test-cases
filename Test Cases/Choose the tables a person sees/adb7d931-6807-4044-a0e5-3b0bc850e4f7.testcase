@@ -1,0 +1,17 @@
+{
+  "order" : "a",
+  "description" : "An unticked tables entries are neither listed nor found",
+  "expectedResult" : "redix-api #106 R5, R6, R9: before anything is unticked the person sees every entry; unticked from a table, its entries leave their list and answer 404 to open, describe and remove, while the manager still sees them",
+  "status" : "PENDING",
+  "steps" : [],
+  "priority" : "MEDIUM",
+  "reference" : "R9",
+  "groups" : [],
+  "createdBy" : "Muteb F Almughyiri",
+  "updatedBy" : "Muteb F Almughyiri",
+  "createdAt" : "Thursday 19-11-2026 At 04:10:00 [Asia/Riyadh]",
+  "updatedAt" : "Thursday 19-11-2026 At 04:10:00 [Asia/Riyadh]",
+  "module" : "UC-009",
+  "testData" : "",
+  "preConditions" : ""
+}

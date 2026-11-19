@@ -1,0 +1,17 @@
+{
+  "order" : "c",
+  "description" : "A rejection needs its reason and changes nothing",
+  "expectedResult" : "redix-api #112 R8: a rejection without a reason answers 400 reasonRequired; with one, nothing changes and the person reads the reason",
+  "status" : "PENDING",
+  "steps" : [],
+  "priority" : "MEDIUM",
+  "reference" : "R8",
+  "groups" : [],
+  "createdBy" : "Muteb F Almughyiri",
+  "updatedBy" : "Muteb F Almughyiri",
+  "createdAt" : "Thursday 19-11-2026 At 04:10:00 [Asia/Riyadh]",
+  "updatedAt" : "Thursday 19-11-2026 At 04:10:00 [Asia/Riyadh]",
+  "module" : "UC-009",
+  "testData" : "",
+  "preConditions" : ""
+}

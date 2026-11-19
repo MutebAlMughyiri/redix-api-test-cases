@@ -1,0 +1,17 @@
+{
+  "order" : "f",
+  "description" : "A new person starts unticked from what the form left unticked",
+  "expectedResult" : "redix-api #106 R3, R13: a new person sent with unseenTableIds holds them in the users list, a table of no project answers 400 unknownTable, and «سجل المشروع» says each tick was taken or given",
+  "status" : "PENDING",
+  "steps" : [],
+  "priority" : "MEDIUM",
+  "reference" : "R3",
+  "groups" : [],
+  "createdBy" : "Muteb F Almughyiri",
+  "updatedBy" : "Muteb F Almughyiri",
+  "createdAt" : "Thursday 19-11-2026 At 04:10:00 [Asia/Riyadh]",
+  "updatedAt" : "Thursday 19-11-2026 At 04:10:00 [Asia/Riyadh]",
+  "module" : "UC-009",
+  "testData" : "",
+  "preConditions" : ""
+}

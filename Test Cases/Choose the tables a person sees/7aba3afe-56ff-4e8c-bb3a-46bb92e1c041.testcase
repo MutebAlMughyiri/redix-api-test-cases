@@ -1,0 +1,17 @@
+{
+  "order" : "g",
+  "description" : "The tables list holds every table for a manager and the seen ones for anyone else",
+  "expectedResult" : "redix-api #106 R4, D9, G2: the tables «الجداول» ticks list every table to whoever manages the users, one unticked for them included, and only the seen ones to anyone else; the person's project names their unseen tables",
+  "status" : "PENDING",
+  "steps" : [],
+  "priority" : "MEDIUM",
+  "reference" : "R4",
+  "groups" : [],
+  "createdBy" : "Muteb F Almughyiri",
+  "updatedBy" : "Muteb F Almughyiri",
+  "createdAt" : "Thursday 19-11-2026 At 04:10:00 [Asia/Riyadh]",
+  "updatedAt" : "Thursday 19-11-2026 At 04:10:00 [Asia/Riyadh]",
+  "module" : "UC-009",
+  "testData" : "",
+  "preConditions" : ""
+}

@@ -1,0 +1,17 @@
+{
+  "order" : "f",
+  "description" : "The last manager keeps managing users whatever they ask",
+  "expectedResult" : "redix-api #112 R4, BR-29: approving a request that takes the last manager's ManageUsers answers 409 lastManager, and nothing changes",
+  "status" : "PENDING",
+  "steps" : [],
+  "priority" : "MEDIUM",
+  "reference" : "R4",
+  "groups" : [],
+  "createdBy" : "Muteb F Almughyiri",
+  "updatedBy" : "Muteb F Almughyiri",
+  "createdAt" : "Thursday 19-11-2026 At 04:10:00 [Asia/Riyadh]",
+  "updatedAt" : "Thursday 19-11-2026 At 04:10:00 [Asia/Riyadh]",
+  "module" : "UC-009",
+  "testData" : "",
+  "preConditions" : ""
+}
